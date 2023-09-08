@@ -1,0 +1,3631 @@
+,0,Target
+0,Primary Education,Dropout
+1,Secondary Education,Graduate
+2,Trade School Education,Dropout
+3,Trade School Education,Graduate
+4,Trade School Education,Graduate
+5,Trade School Education,Graduate
+6,Primary Education,Graduate
+7,Trade School Education,Dropout
+8,Secondary Education,Graduate
+9,Secondary Education,Dropout
+10,Trade School Education,Graduate
+11,Primary Education,Graduate
+12,Primary Education,Dropout
+13,Secondary Education,Graduate
+14,Trade School Education,Graduate
+15,Primary Education,Dropout
+17,Primary Education,Graduate
+18,Secondary Education,Graduate
+20,Secondary Education,Graduate
+22,Primary Education,Graduate
+23,Secondary Education,Graduate
+24,Primary Education,Graduate
+26,Primary Education,Graduate
+28,Primary Education,Graduate
+31,Trade School Education,Graduate
+33,Primary Education,Graduate
+34,Secondary Education,Graduate
+35,Trade School Education,Dropout
+36,Primary Education,Dropout
+37,Trade School Education,Dropout
+38,Primary Education,Graduate
+39,Secondary Education,Dropout
+40,Secondary Education,Dropout
+41,Secondary Education,Graduate
+42,Secondary Education,Graduate
+43,Secondary Education,Dropout
+44,Trade School Education,Dropout
+46,Primary Education,Graduate
+47,Trade School Education,Graduate
+48,Secondary Education,Graduate
+49,Trade School Education,Graduate
+50,Primary Education,Graduate
+53,Trade School Education,Graduate
+54,Trade School Education,Dropout
+55,Secondary Education,Graduate
+56,Secondary Education,Dropout
+57,Secondary Education,Dropout
+58,Trade School Education,Graduate
+60,Primary Education,Graduate
+61,Primary Education,Graduate
+65,Secondary Education,Dropout
+66,Primary Education,Graduate
+67,Primary Education,Graduate
+68,Secondary Education,Dropout
+71,Trade School Education,Graduate
+72,Primary Education,Dropout
+73,Trade School Education,Dropout
+74,Trade School Education,Graduate
+75,Primary Education,Dropout
+76,Primary Education,Dropout
+77,Secondary Education,Graduate
+78,Trade School Education,Graduate
+79,Trade School Education,Graduate
+80,Primary Education,Dropout
+81,Secondary Education,Dropout
+82,Secondary Education,Dropout
+84,Trade School Education,Graduate
+85,Trade School Education,Graduate
+86,Secondary Education,Graduate
+87,Primary Education,Graduate
+90,Secondary Education,Dropout
+91,Primary Education,Graduate
+92,Secondary Education,Dropout
+93,Trade School Education,Dropout
+94,Trade School Education,Graduate
+96,Trade School Education,Graduate
+97,Trade School Education,Graduate
+99,Secondary Education,Dropout
+100,Trade School Education,Dropout
+101,Secondary Education,Graduate
+102,Trade School Education,Dropout
+103,Trade School Education,Graduate
+104,Primary Education,Dropout
+105,Secondary Education,Graduate
+106,Trade School Education,Dropout
+107,Secondary Education,Dropout
+108,Secondary Education,Dropout
+110,Trade School Education,Graduate
+112,Primary Education,Graduate
+113,Secondary Education,Graduate
+114,Trade School Education,Dropout
+118,Trade School Education,Graduate
+119,Secondary Education,Graduate
+120,Secondary Education,Dropout
+121,Primary Education,Graduate
+122,Secondary Education,Dropout
+123,Trade School Education,Graduate
+124,Primary Education,Graduate
+125,Secondary Education,Dropout
+126,Trade School Education,Graduate
+128,Secondary Education,Graduate
+129,Secondary Education,Graduate
+130,Primary Education,Dropout
+131,Trade School Education,Graduate
+132,Secondary Education,Graduate
+133,Secondary Education,Dropout
+134,Trade School Education,Graduate
+135,Secondary Education,Dropout
+136,Primary Education,Graduate
+137,Secondary Education,Graduate
+139,Primary Education,Graduate
+140,Trade School Education,Graduate
+141,Primary Education,Graduate
+143,Secondary Education,Graduate
+144,Primary Education,Graduate
+145,Trade School Education,Graduate
+146,Primary Education,Dropout
+147,Secondary Education,Dropout
+148,Secondary Education,Graduate
+149,Secondary Education,Graduate
+151,Secondary Education,Graduate
+153,Trade School Education,Graduate
+154,Secondary Education,Dropout
+155,Trade School Education,Dropout
+156,Trade School Education,Graduate
+157,Secondary Education,Graduate
+158,Primary Education,Graduate
+159,Secondary Education,Graduate
+160,Primary Education,Dropout
+161,Primary Education,Graduate
+162,Primary Education,Graduate
+163,Primary Education,Dropout
+164,Secondary Education,Graduate
+165,Primary Education,Graduate
+167,Primary Education,Graduate
+168,Secondary Education,Graduate
+169,Primary Education,Dropout
+171,Trade School Education,Graduate
+172,Secondary Education,Graduate
+173,Primary Education,Graduate
+174,Trade School Education,Dropout
+176,Trade School Education,Graduate
+177,Primary Education,Dropout
+178,Trade School Education,Dropout
+179,Secondary Education,Dropout
+180,Secondary Education,Graduate
+182,Primary Education,Dropout
+183,Secondary Education,Dropout
+184,Secondary Education,Dropout
+185,Secondary Education,Dropout
+187,Trade School Education,Graduate
+188,Secondary Education,Dropout
+189,Secondary Education,Graduate
+190,Primary Education,Graduate
+192,Primary Education,Dropout
+193,Secondary Education,Dropout
+194,Trade School Education,Graduate
+195,Primary Education,Dropout
+196,Trade School Education,Graduate
+197,Secondary Education,Dropout
+198,Primary Education,Graduate
+200,Secondary Education,Graduate
+201,Primary Education,Graduate
+202,Primary Education,Graduate
+203,Trade School Education,Graduate
+204,Primary Education,Graduate
+205,Primary Education,Graduate
+206,Primary Education,Graduate
+207,Secondary Education,Graduate
+208,Primary Education,Graduate
+209,Secondary Education,Dropout
+210,Trade School Education,Graduate
+211,Trade School Education,Graduate
+212,Secondary Education,Graduate
+213,Trade School Education,Dropout
+214,Secondary Education,Graduate
+216,Primary Education,Graduate
+217,Primary Education,Dropout
+218,Secondary Education,Dropout
+219,Primary Education,Dropout
+220,Trade School Education,Graduate
+221,Trade School Education,Graduate
+222,Secondary Education,Dropout
+223,Primary Education,Graduate
+224,Secondary Education,Graduate
+225,Trade School Education,Graduate
+226,Secondary Education,Graduate
+227,Secondary Education,Graduate
+228,Primary Education,Dropout
+229,Secondary Education,Graduate
+230,Secondary Education,Graduate
+231,Primary Education,Dropout
+232,Secondary Education,Graduate
+233,Secondary Education,Graduate
+234,Trade School Education,Dropout
+235,Trade School Education,Graduate
+236,Primary Education,Graduate
+237,Trade School Education,Graduate
+238,Primary Education,Dropout
+239,Primary Education,Dropout
+242,Trade School Education,Graduate
+243,Trade School Education,Dropout
+244,Trade School Education,Graduate
+245,Primary Education,Graduate
+246,Primary Education,Graduate
+247,Trade School Education,Dropout
+248,Primary Education,Graduate
+249,Primary Education,Graduate
+251,Trade School Education,Dropout
+252,Primary Education,Graduate
+254,Secondary Education,Graduate
+255,Trade School Education,Dropout
+256,Trade School Education,Graduate
+258,Secondary Education,Graduate
+259,Secondary Education,Dropout
+260,Trade School Education,Graduate
+261,Trade School Education,Dropout
+262,Trade School Education,Dropout
+263,Secondary Education,Graduate
+264,Trade School Education,Graduate
+265,Secondary Education,Graduate
+266,Secondary Education,Graduate
+267,Trade School Education,Graduate
+268,Trade School Education,Graduate
+269,Secondary Education,Graduate
+270,Trade School Education,Graduate
+271,Secondary Education,Dropout
+272,Primary Education,Graduate
+273,Secondary Education,Graduate
+274,Secondary Education,Graduate
+275,Primary Education,Graduate
+276,Trade School Education,Dropout
+277,Secondary Education,Dropout
+279,Primary Education,Graduate
+280,Trade School Education,Graduate
+281,Trade School Education,Graduate
+282,Trade School Education,Graduate
+283,Primary Education,Graduate
+284,Trade School Education,Graduate
+285,Secondary Education,Graduate
+287,Primary Education,Graduate
+288,Secondary Education,Graduate
+289,Secondary Education,Graduate
+290,Primary Education,Graduate
+291,Primary Education,Graduate
+293,Primary Education,Graduate
+294,Trade School Education,Dropout
+295,Secondary Education,Graduate
+296,Primary Education,Graduate
+297,Secondary Education,Graduate
+298,Secondary Education,Graduate
+299,Primary Education,Graduate
+300,Trade School Education,Graduate
+301,Trade School Education,Graduate
+302,Primary Education,Graduate
+303,Primary Education,Dropout
+304,Secondary Education,Dropout
+306,Secondary Education,Graduate
+307,Secondary Education,Dropout
+308,Primary Education,Graduate
+309,Trade School Education,Dropout
+310,Secondary Education,Graduate
+311,Primary Education,Dropout
+312,Primary Education,Graduate
+313,Trade School Education,Graduate
+314,Secondary Education,Dropout
+315,Secondary Education,Graduate
+316,Primary Education,Graduate
+317,Trade School Education,Graduate
+318,Primary Education,Graduate
+320,Primary Education,Dropout
+321,Trade School Education,Graduate
+322,Secondary Education,Graduate
+323,Trade School Education,Graduate
+325,Primary Education,Graduate
+326,Secondary Education,Graduate
+327,Secondary Education,Graduate
+331,Primary Education,Dropout
+332,Trade School Education,Graduate
+333,Trade School Education,Graduate
+334,Primary Education,Graduate
+335,Trade School Education,Graduate
+336,Trade School Education,Graduate
+337,Trade School Education,Graduate
+338,Secondary Education,Graduate
+339,Secondary Education,Graduate
+341,Secondary Education,Dropout
+342,Trade School Education,Graduate
+343,Secondary Education,Graduate
+345,Primary Education,Graduate
+347,Trade School Education,Graduate
+348,Trade School Education,Graduate
+350,Primary Education,Dropout
+351,Primary Education,Graduate
+352,Secondary Education,Dropout
+353,Trade School Education,Graduate
+354,Primary Education,Dropout
+355,Primary Education,Graduate
+356,Trade School Education,Graduate
+357,Trade School Education,Dropout
+359,Secondary Education,Dropout
+360,Primary Education,Graduate
+361,Trade School Education,Dropout
+363,Primary Education,Graduate
+365,Trade School Education,Graduate
+366,Primary Education,Graduate
+368,Trade School Education,Graduate
+369,Primary Education,Dropout
+370,Trade School Education,Graduate
+372,Secondary Education,Graduate
+373,Secondary Education,Graduate
+374,Trade School Education,Dropout
+376,Trade School Education,Dropout
+377,Secondary Education,Graduate
+380,Trade School Education,Dropout
+383,Primary Education,Graduate
+384,Secondary Education,Graduate
+385,Primary Education,Graduate
+386,Trade School Education,Graduate
+387,Trade School Education,Graduate
+389,Trade School Education,Graduate
+392,Primary Education,Dropout
+393,Secondary Education,Dropout
+394,Secondary Education,Graduate
+395,Secondary Education,Graduate
+396,Secondary Education,Graduate
+397,Trade School Education,Graduate
+398,Trade School Education,Dropout
+399,Trade School Education,Dropout
+404,Trade School Education,Graduate
+405,Secondary Education,Graduate
+406,Secondary Education,Graduate
+407,Secondary Education,Graduate
+408,Secondary Education,Graduate
+409,Primary Education,Dropout
+410,Primary Education,Graduate
+411,Primary Education,Graduate
+412,Secondary Education,Graduate
+413,Trade School Education,Graduate
+414,Secondary Education,Graduate
+415,Trade School Education,Graduate
+416,Secondary Education,Graduate
+417,Primary Education,Dropout
+418,Trade School Education,Graduate
+419,Secondary Education,Dropout
+420,Secondary Education,Graduate
+421,Secondary Education,Graduate
+422,Secondary Education,Dropout
+423,Secondary Education,Graduate
+424,Primary Education,Graduate
+425,Trade School Education,Graduate
+426,Trade School Education,Graduate
+428,Primary Education,Dropout
+429,Primary Education,Graduate
+430,Trade School Education,Graduate
+431,Trade School Education,Graduate
+432,Trade School Education,Graduate
+433,Secondary Education,Dropout
+434,Secondary Education,Graduate
+435,Primary Education,Graduate
+437,Primary Education,Graduate
+438,Primary Education,Dropout
+439,Trade School Education,Graduate
+442,Primary Education,Graduate
+443,Primary Education,Graduate
+444,Primary Education,Graduate
+445,Trade School Education,Graduate
+446,Secondary Education,Graduate
+447,Secondary Education,Dropout
+448,Secondary Education,Graduate
+450,Trade School Education,Graduate
+451,Trade School Education,Graduate
+452,Primary Education,Graduate
+453,Primary Education,Graduate
+455,Primary Education,Graduate
+456,Trade School Education,Dropout
+457,Trade School Education,Dropout
+458,Secondary Education,Graduate
+459,Trade School Education,Graduate
+460,Secondary Education,Graduate
+461,Primary Education,Graduate
+462,Secondary Education,Graduate
+463,Secondary Education,Graduate
+465,Secondary Education,Dropout
+467,Primary Education,Graduate
+468,Primary Education,Graduate
+469,Trade School Education,Graduate
+470,Secondary Education,Graduate
+471,Primary Education,Graduate
+472,Trade School Education,Dropout
+473,Primary Education,Graduate
+474,Primary Education,Dropout
+475,Secondary Education,Graduate
+476,Primary Education,Dropout
+477,Primary Education,Dropout
+478,Secondary Education,Graduate
+480,Secondary Education,Graduate
+481,Secondary Education,Graduate
+482,Secondary Education,Dropout
+484,Secondary Education,Graduate
+485,Secondary Education,Graduate
+486,Trade School Education,Dropout
+487,Secondary Education,Dropout
+488,Trade School Education,Graduate
+489,Trade School Education,Graduate
+490,Primary Education,Graduate
+491,Trade School Education,Graduate
+492,Secondary Education,Graduate
+495,Primary Education,Dropout
+496,Trade School Education,Dropout
+497,Secondary Education,Graduate
+498,Primary Education,Graduate
+499,Trade School Education,Graduate
+501,Trade School Education,Graduate
+503,Secondary Education,Dropout
+504,Trade School Education,Graduate
+507,Primary Education,Graduate
+508,Secondary Education,Dropout
+509,Secondary Education,Dropout
+511,Primary Education,Dropout
+512,Primary Education,Graduate
+513,Trade School Education,Dropout
+514,Trade School Education,Dropout
+515,Trade School Education,Dropout
+516,Trade School Education,Graduate
+517,Secondary Education,Dropout
+518,Primary Education,Dropout
+519,Trade School Education,Dropout
+520,Trade School Education,Graduate
+521,Secondary Education,Graduate
+522,Secondary Education,Graduate
+523,Secondary Education,Graduate
+524,Secondary Education,Dropout
+525,Secondary Education,Dropout
+527,Secondary Education,Graduate
+528,Trade School Education,Dropout
+529,Secondary Education,Dropout
+531,Primary Education,Dropout
+532,Secondary Education,Graduate
+533,Secondary Education,Dropout
+534,Secondary Education,Graduate
+535,Secondary Education,Graduate
+536,Secondary Education,Dropout
+537,Secondary Education,Graduate
+538,Primary Education,Graduate
+539,Primary Education,Dropout
+540,Primary Education,Graduate
+542,Secondary Education,Graduate
+543,Secondary Education,Graduate
+549,Primary Education,Graduate
+550,Primary Education,Dropout
+551,Primary Education,Dropout
+552,Primary Education,Dropout
+553,Secondary Education,Dropout
+554,Secondary Education,Dropout
+555,Secondary Education,Dropout
+557,Trade School Education,Graduate
+559,Secondary Education,Graduate
+560,Secondary Education,Graduate
+562,Secondary Education,Dropout
+563,Primary Education,Graduate
+564,Secondary Education,Graduate
+565,Primary Education,Graduate
+566,Secondary Education,Dropout
+567,Primary Education,Dropout
+568,Trade School Education,Graduate
+569,Secondary Education,Graduate
+570,Secondary Education,Graduate
+571,Trade School Education,Dropout
+572,Primary Education,Dropout
+574,Primary Education,Graduate
+575,Secondary Education,Dropout
+576,Secondary Education,Graduate
+578,Trade School Education,Graduate
+579,Trade School Education,Graduate
+580,Primary Education,Dropout
+581,Primary Education,Graduate
+583,Trade School Education,Graduate
+584,Trade School Education,Graduate
+585,Secondary Education,Graduate
+586,Trade School Education,Graduate
+587,Trade School Education,Graduate
+588,Trade School Education,Graduate
+589,Trade School Education,Graduate
+590,Primary Education,Graduate
+592,Trade School Education,Graduate
+595,Trade School Education,Dropout
+596,Trade School Education,Dropout
+597,Trade School Education,Dropout
+598,Primary Education,Graduate
+599,Trade School Education,Graduate
+600,Primary Education,Dropout
+601,Primary Education,Dropout
+602,Secondary Education,Graduate
+603,Secondary Education,Graduate
+604,Secondary Education,Graduate
+605,Primary Education,Dropout
+606,Primary Education,Dropout
+607,Trade School Education,Graduate
+608,Primary Education,Dropout
+610,Trade School Education,Graduate
+611,Secondary Education,Graduate
+612,Secondary Education,Graduate
+614,Primary Education,Graduate
+615,Secondary Education,Graduate
+616,Trade School Education,Graduate
+617,Trade School Education,Graduate
+618,Primary Education,Graduate
+620,Secondary Education,Graduate
+621,Secondary Education,Dropout
+622,Trade School Education,Dropout
+623,Trade School Education,Graduate
+624,Trade School Education,Dropout
+625,Primary Education,Dropout
+626,Trade School Education,Graduate
+627,Primary Education,Graduate
+628,Secondary Education,Graduate
+629,Primary Education,Graduate
+630,Primary Education,Graduate
+632,Secondary Education,Graduate
+633,Trade School Education,Graduate
+634,Trade School Education,Graduate
+635,Trade School Education,Graduate
+636,Trade School Education,Graduate
+638,Secondary Education,Graduate
+639,Secondary Education,Dropout
+640,Trade School Education,Dropout
+644,Trade School Education,Dropout
+647,Primary Education,Graduate
+648,Secondary Education,Graduate
+649,Secondary Education,Graduate
+650,Primary Education,Graduate
+652,Secondary Education,Graduate
+653,Trade School Education,Graduate
+654,Primary Education,Graduate
+657,Secondary Education,Graduate
+658,Secondary Education,Graduate
+659,Primary Education,Dropout
+660,Secondary Education,Graduate
+662,Secondary Education,Graduate
+663,Trade School Education,Graduate
+664,Secondary Education,Graduate
+665,Secondary Education,Graduate
+666,Trade School Education,Dropout
+667,Trade School Education,Graduate
+668,Secondary Education,Dropout
+669,Primary Education,Graduate
+670,Trade School Education,Graduate
+671,Trade School Education,Dropout
+672,Secondary Education,Graduate
+673,Primary Education,Graduate
+674,Trade School Education,Graduate
+675,Trade School Education,Dropout
+676,Secondary Education,Graduate
+678,Trade School Education,Dropout
+679,Secondary Education,Graduate
+680,Primary Education,Graduate
+681,Secondary Education,Graduate
+682,Secondary Education,Dropout
+683,Trade School Education,Dropout
+684,Trade School Education,Graduate
+685,Trade School Education,Graduate
+686,Trade School Education,Dropout
+687,Trade School Education,Graduate
+688,Trade School Education,Graduate
+689,Trade School Education,Dropout
+690,Trade School Education,Dropout
+691,Trade School Education,Graduate
+693,Trade School Education,Dropout
+694,Secondary Education,Graduate
+695,Secondary Education,Dropout
+696,Trade School Education,Graduate
+698,Secondary Education,Graduate
+699,Trade School Education,Dropout
+701,Trade School Education,Dropout
+702,Secondary Education,Dropout
+703,Trade School Education,Dropout
+704,Trade School Education,Graduate
+705,Trade School Education,Dropout
+706,Primary Education,Graduate
+707,Trade School Education,Graduate
+708,Secondary Education,Graduate
+709,Trade School Education,Dropout
+710,Trade School Education,Dropout
+711,Trade School Education,Dropout
+712,Trade School Education,Graduate
+713,Secondary Education,Graduate
+714,Trade School Education,Graduate
+715,Primary Education,Graduate
+716,Primary Education,Dropout
+717,Secondary Education,Dropout
+720,Trade School Education,Dropout
+722,Primary Education,Graduate
+723,Trade School Education,Dropout
+724,Trade School Education,Dropout
+725,Trade School Education,Graduate
+726,Primary Education,Graduate
+727,Trade School Education,Dropout
+728,Primary Education,Graduate
+730,Primary Education,Dropout
+731,Secondary Education,Graduate
+732,Secondary Education,Graduate
+733,Primary Education,Graduate
+734,Trade School Education,Dropout
+735,Secondary Education,Graduate
+737,Trade School Education,Dropout
+739,Secondary Education,Dropout
+740,Primary Education,Dropout
+741,Secondary Education,Graduate
+742,Secondary Education,Dropout
+743,Secondary Education,Dropout
+744,Secondary Education,Graduate
+745,Secondary Education,Dropout
+746,Secondary Education,Dropout
+747,Trade School Education,Graduate
+748,Secondary Education,Dropout
+749,Secondary Education,Graduate
+750,Trade School Education,Graduate
+751,Trade School Education,Graduate
+752,Trade School Education,Graduate
+753,Primary Education,Dropout
+754,Trade School Education,Graduate
+755,Secondary Education,Dropout
+756,Secondary Education,Dropout
+757,Trade School Education,Dropout
+758,Secondary Education,Graduate
+759,Trade School Education,Graduate
+760,Secondary Education,Graduate
+762,Trade School Education,Graduate
+764,Secondary Education,Graduate
+767,Secondary Education,Graduate
+768,Trade School Education,Graduate
+769,Primary Education,Graduate
+770,Secondary Education,Graduate
+771,Secondary Education,Dropout
+773,Trade School Education,Graduate
+775,Secondary Education,Dropout
+776,Secondary Education,Graduate
+777,Secondary Education,Dropout
+779,Secondary Education,Graduate
+780,Trade School Education,Graduate
+781,Secondary Education,Dropout
+782,Primary Education,Graduate
+784,Secondary Education,Graduate
+785,Secondary Education,Graduate
+786,Secondary Education,Graduate
+787,Secondary Education,Graduate
+788,Trade School Education,Dropout
+789,Primary Education,Graduate
+790,Secondary Education,Graduate
+791,Secondary Education,Dropout
+792,Secondary Education,Graduate
+793,Secondary Education,Graduate
+794,Primary Education,Graduate
+795,Trade School Education,Graduate
+796,Secondary Education,Graduate
+797,Secondary Education,Graduate
+798,Secondary Education,Graduate
+801,Primary Education,Dropout
+802,Primary Education,Graduate
+803,Trade School Education,Graduate
+804,Secondary Education,Graduate
+806,Secondary Education,Graduate
+808,Secondary Education,Dropout
+810,Secondary Education,Dropout
+811,Primary Education,Graduate
+812,Primary Education,Graduate
+813,Secondary Education,Graduate
+814,Primary Education,Graduate
+817,Secondary Education,Graduate
+819,Primary Education,Graduate
+820,Primary Education,Graduate
+821,Primary Education,Graduate
+823,Primary Education,Graduate
+824,Secondary Education,Graduate
+825,Secondary Education,Graduate
+826,Secondary Education,Dropout
+827,Secondary Education,Graduate
+828,Primary Education,Graduate
+829,Secondary Education,Dropout
+830,Trade School Education,Dropout
+831,Primary Education,Dropout
+833,Trade School Education,Dropout
+834,Trade School Education,Dropout
+836,Secondary Education,Dropout
+838,Secondary Education,Dropout
+839,Trade School Education,Graduate
+840,Secondary Education,Dropout
+842,Secondary Education,Dropout
+843,Trade School Education,Graduate
+844,Trade School Education,Graduate
+845,Trade School Education,Dropout
+846,Secondary Education,Graduate
+847,Primary Education,Graduate
+849,Secondary Education,Graduate
+850,Secondary Education,Graduate
+852,Primary Education,Graduate
+853,Secondary Education,Graduate
+855,Secondary Education,Dropout
+856,Secondary Education,Dropout
+857,Trade School Education,Dropout
+858,Primary Education,Dropout
+859,Primary Education,Dropout
+860,Secondary Education,Dropout
+861,Primary Education,Dropout
+862,Secondary Education,Dropout
+863,Trade School Education,Dropout
+864,Secondary Education,Dropout
+865,Secondary Education,Graduate
+866,Secondary Education,Dropout
+867,Trade School Education,Dropout
+868,Primary Education,Graduate
+869,Primary Education,Graduate
+870,Secondary Education,Graduate
+871,Primary Education,Dropout
+872,Primary Education,Graduate
+874,Secondary Education,Graduate
+875,Trade School Education,Graduate
+876,Trade School Education,Dropout
+877,Primary Education,Dropout
+878,Primary Education,Graduate
+879,Primary Education,Dropout
+880,Trade School Education,Graduate
+881,Secondary Education,Graduate
+882,Primary Education,Dropout
+883,Trade School Education,Dropout
+884,Secondary Education,Graduate
+885,Primary Education,Graduate
+886,Trade School Education,Graduate
+887,Trade School Education,Graduate
+888,Primary Education,Graduate
+889,Trade School Education,Graduate
+890,Secondary Education,Graduate
+891,Trade School Education,Dropout
+892,Trade School Education,Graduate
+893,Trade School Education,Dropout
+894,Secondary Education,Graduate
+895,Secondary Education,Dropout
+896,Trade School Education,Graduate
+897,Primary Education,Graduate
+899,Primary Education,Graduate
+900,Primary Education,Dropout
+901,Trade School Education,Graduate
+902,Trade School Education,Graduate
+903,Trade School Education,Graduate
+904,Primary Education,Dropout
+905,Secondary Education,Graduate
+906,Secondary Education,Dropout
+907,Primary Education,Graduate
+909,Trade School Education,Dropout
+910,Trade School Education,Graduate
+911,Primary Education,Graduate
+912,Trade School Education,Dropout
+913,Trade School Education,Graduate
+914,Trade School Education,Dropout
+915,Primary Education,Graduate
+916,Primary Education,Dropout
+917,Trade School Education,Dropout
+918,Trade School Education,Graduate
+919,Trade School Education,Graduate
+920,Trade School Education,Graduate
+921,Trade School Education,Graduate
+922,Secondary Education,Dropout
+923,Trade School Education,Dropout
+925,Trade School Education,Graduate
+926,Primary Education,Dropout
+929,Primary Education,Dropout
+931,Primary Education,Graduate
+932,Trade School Education,Graduate
+933,Trade School Education,Dropout
+935,Secondary Education,Graduate
+936,Trade School Education,Dropout
+939,Trade School Education,Dropout
+940,Primary Education,Graduate
+941,Trade School Education,Graduate
+943,Secondary Education,Dropout
+944,Trade School Education,Graduate
+945,Trade School Education,Graduate
+946,Secondary Education,Graduate
+947,Secondary Education,Dropout
+948,Primary Education,Graduate
+949,Trade School Education,Dropout
+950,Trade School Education,Graduate
+951,Trade School Education,Dropout
+952,Secondary Education,Graduate
+953,Primary Education,Dropout
+954,Secondary Education,Dropout
+955,Secondary Education,Dropout
+956,Primary Education,Graduate
+957,Trade School Education,Graduate
+958,Secondary Education,Graduate
+959,Primary Education,Dropout
+960,Primary Education,Dropout
+961,Trade School Education,Graduate
+962,Secondary Education,Graduate
+964,Secondary Education,Graduate
+965,Secondary Education,Graduate
+966,Primary Education,Dropout
+967,Trade School Education,Dropout
+968,Primary Education,Dropout
+970,Primary Education,Graduate
+971,Trade School Education,Dropout
+972,Trade School Education,Dropout
+973,Trade School Education,Graduate
+974,Trade School Education,Graduate
+976,Trade School Education,Graduate
+977,Primary Education,Graduate
+978,Primary Education,Dropout
+979,Secondary Education,Graduate
+980,Trade School Education,Dropout
+982,Secondary Education,Graduate
+984,Secondary Education,Dropout
+985,Primary Education,Graduate
+986,Secondary Education,Graduate
+987,Secondary Education,Dropout
+988,Secondary Education,Dropout
+989,Primary Education,Dropout
+990,Secondary Education,Graduate
+991,Secondary Education,Graduate
+992,Secondary Education,Dropout
+993,Secondary Education,Graduate
+994,Trade School Education,Graduate
+995,Trade School Education,Graduate
+998,Secondary Education,Graduate
+999,Primary Education,Dropout
+1000,Trade School Education,Dropout
+1001,Primary Education,Dropout
+1002,Secondary Education,Graduate
+1003,Primary Education,Graduate
+1004,Secondary Education,Dropout
+1005,Secondary Education,Graduate
+1006,Trade School Education,Graduate
+1007,Trade School Education,Graduate
+1008,Primary Education,Graduate
+1009,Secondary Education,Graduate
+1010,Primary Education,Graduate
+1011,Primary Education,Graduate
+1012,Secondary Education,Graduate
+1013,Primary Education,Dropout
+1014,Trade School Education,Graduate
+1015,Primary Education,Graduate
+1016,Trade School Education,Dropout
+1017,Secondary Education,Graduate
+1018,Primary Education,Dropout
+1019,Secondary Education,Graduate
+1020,Secondary Education,Graduate
+1021,Primary Education,Graduate
+1022,Trade School Education,Graduate
+1023,Trade School Education,Graduate
+1024,Trade School Education,Graduate
+1025,Secondary Education,Dropout
+1026,Primary Education,Graduate
+1027,Primary Education,Graduate
+1028,Primary Education,Graduate
+1029,Secondary Education,Graduate
+1030,Secondary Education,Graduate
+1032,Trade School Education,Graduate
+1033,Secondary Education,Graduate
+1034,Trade School Education,Dropout
+1036,Secondary Education,Dropout
+1037,Secondary Education,Graduate
+1038,Secondary Education,Graduate
+1040,Secondary Education,Graduate
+1041,Trade School Education,Graduate
+1042,Trade School Education,Graduate
+1043,Trade School Education,Graduate
+1044,Primary Education,Graduate
+1045,Secondary Education,Dropout
+1046,Secondary Education,Dropout
+1047,Secondary Education,Graduate
+1048,Secondary Education,Graduate
+1049,Trade School Education,Graduate
+1050,Secondary Education,Graduate
+1051,Primary Education,Graduate
+1052,Secondary Education,Dropout
+1053,Secondary Education,Graduate
+1054,Trade School Education,Graduate
+1055,Primary Education,Graduate
+1056,Secondary Education,Dropout
+1057,Secondary Education,Graduate
+1058,Secondary Education,Dropout
+1059,Primary Education,Graduate
+1060,Secondary Education,Dropout
+1061,Primary Education,Dropout
+1062,Trade School Education,Graduate
+1063,Primary Education,Graduate
+1065,Primary Education,Dropout
+1066,Trade School Education,Graduate
+1067,Trade School Education,Graduate
+1068,Secondary Education,Graduate
+1069,Primary Education,Graduate
+1070,Secondary Education,Graduate
+1071,Primary Education,Graduate
+1073,Secondary Education,Graduate
+1074,Trade School Education,Graduate
+1075,Primary Education,Graduate
+1076,Primary Education,Dropout
+1077,Trade School Education,Dropout
+1078,Secondary Education,Dropout
+1079,Secondary Education,Graduate
+1080,Secondary Education,Graduate
+1081,Primary Education,Graduate
+1083,Secondary Education,Graduate
+1084,Primary Education,Graduate
+1085,Secondary Education,Dropout
+1086,Primary Education,Graduate
+1087,Trade School Education,Graduate
+1090,Secondary Education,Graduate
+1091,Primary Education,Dropout
+1092,Trade School Education,Graduate
+1093,Primary Education,Dropout
+1094,Primary Education,Graduate
+1095,Trade School Education,Dropout
+1096,Primary Education,Dropout
+1097,Trade School Education,Graduate
+1098,Secondary Education,Graduate
+1099,Primary Education,Graduate
+1100,Primary Education,Dropout
+1101,Primary Education,Dropout
+1104,Primary Education,Graduate
+1105,Trade School Education,Dropout
+1106,Primary Education,Dropout
+1107,Trade School Education,Graduate
+1108,Primary Education,Dropout
+1109,Primary Education,Graduate
+1110,Trade School Education,Graduate
+1111,Secondary Education,Graduate
+1114,Primary Education,Graduate
+1115,Trade School Education,Graduate
+1116,Secondary Education,Dropout
+1117,Trade School Education,Graduate
+1119,Primary Education,Graduate
+1121,Secondary Education,Graduate
+1122,Secondary Education,Graduate
+1123,Trade School Education,Graduate
+1124,Trade School Education,Graduate
+1125,Trade School Education,Graduate
+1126,Secondary Education,Graduate
+1127,Trade School Education,Graduate
+1128,Trade School Education,Graduate
+1129,Trade School Education,Graduate
+1130,Primary Education,Graduate
+1131,Secondary Education,Graduate
+1133,Primary Education,Graduate
+1134,Trade School Education,Dropout
+1135,Trade School Education,Dropout
+1136,Trade School Education,Graduate
+1137,Secondary Education,Dropout
+1138,Trade School Education,Graduate
+1139,Primary Education,Graduate
+1140,Trade School Education,Graduate
+1142,Secondary Education,Dropout
+1143,Primary Education,Graduate
+1145,Primary Education,Graduate
+1147,Primary Education,Graduate
+1149,Primary Education,Graduate
+1150,Primary Education,Graduate
+1151,Trade School Education,Dropout
+1154,Secondary Education,Graduate
+1156,Trade School Education,Dropout
+1157,Trade School Education,Graduate
+1158,Secondary Education,Graduate
+1159,Primary Education,Graduate
+1160,Trade School Education,Graduate
+1162,Trade School Education,Graduate
+1163,Trade School Education,Graduate
+1164,Trade School Education,Dropout
+1165,Primary Education,Graduate
+1166,Secondary Education,Dropout
+1167,Primary Education,Graduate
+1168,Secondary Education,Dropout
+1169,Primary Education,Graduate
+1170,Trade School Education,Graduate
+1171,Secondary Education,Graduate
+1172,Primary Education,Dropout
+1174,Secondary Education,Graduate
+1175,Primary Education,Dropout
+1176,Trade School Education,Graduate
+1177,Secondary Education,Graduate
+1178,Trade School Education,Dropout
+1179,Trade School Education,Graduate
+1180,Trade School Education,Dropout
+1181,Secondary Education,Graduate
+1182,Primary Education,Graduate
+1183,Primary Education,Dropout
+1185,Primary Education,Graduate
+1187,Trade School Education,Dropout
+1188,Primary Education,Graduate
+1189,Secondary Education,Graduate
+1190,Primary Education,Dropout
+1191,Secondary Education,Graduate
+1192,Primary Education,Graduate
+1193,Secondary Education,Graduate
+1194,Trade School Education,Graduate
+1196,Trade School Education,Dropout
+1197,Secondary Education,Dropout
+1198,Secondary Education,Graduate
+1199,Secondary Education,Graduate
+1200,Secondary Education,Graduate
+1201,Trade School Education,Graduate
+1202,Primary Education,Dropout
+1203,Secondary Education,Graduate
+1204,Primary Education,Dropout
+1205,Trade School Education,Graduate
+1206,Trade School Education,Graduate
+1208,Trade School Education,Dropout
+1209,Trade School Education,Dropout
+1210,Trade School Education,Dropout
+1212,Trade School Education,Graduate
+1213,Trade School Education,Graduate
+1215,Secondary Education,Graduate
+1216,Primary Education,Graduate
+1217,Primary Education,Graduate
+1218,Secondary Education,Graduate
+1219,Primary Education,Graduate
+1220,Trade School Education,Dropout
+1221,Primary Education,Graduate
+1222,Primary Education,Dropout
+1223,Secondary Education,Graduate
+1224,Primary Education,Graduate
+1225,Trade School Education,Graduate
+1226,Primary Education,Graduate
+1227,Trade School Education,Graduate
+1228,Trade School Education,Graduate
+1230,Primary Education,Graduate
+1231,Secondary Education,Graduate
+1232,Primary Education,Graduate
+1233,Secondary Education,Graduate
+1234,Secondary Education,Graduate
+1235,Primary Education,Dropout
+1236,Secondary Education,Graduate
+1237,Secondary Education,Dropout
+1238,Trade School Education,Graduate
+1239,Secondary Education,Dropout
+1240,Trade School Education,Dropout
+1241,Primary Education,Dropout
+1243,Primary Education,Graduate
+1244,Trade School Education,Dropout
+1245,Trade School Education,Dropout
+1246,Primary Education,Graduate
+1247,Primary Education,Dropout
+1249,Trade School Education,Dropout
+1250,Primary Education,Graduate
+1251,Trade School Education,Graduate
+1252,Trade School Education,Graduate
+1253,Trade School Education,Graduate
+1255,Secondary Education,Dropout
+1256,Primary Education,Graduate
+1257,Trade School Education,Graduate
+1258,Secondary Education,Graduate
+1259,Primary Education,Graduate
+1260,Secondary Education,Graduate
+1261,Primary Education,Dropout
+1262,Primary Education,Dropout
+1263,Trade School Education,Graduate
+1264,Trade School Education,Graduate
+1265,Secondary Education,Graduate
+1266,Trade School Education,Graduate
+1267,Primary Education,Graduate
+1269,Trade School Education,Dropout
+1271,Primary Education,Graduate
+1272,Trade School Education,Dropout
+1273,Trade School Education,Dropout
+1274,Trade School Education,Graduate
+1275,Primary Education,Graduate
+1276,Secondary Education,Graduate
+1277,Trade School Education,Dropout
+1279,Primary Education,Graduate
+1280,Primary Education,Graduate
+1281,Trade School Education,Graduate
+1282,Secondary Education,Dropout
+1283,Primary Education,Graduate
+1284,Primary Education,Graduate
+1285,Primary Education,Dropout
+1287,Primary Education,Graduate
+1288,Trade School Education,Graduate
+1289,Primary Education,Graduate
+1291,Trade School Education,Graduate
+1292,Secondary Education,Dropout
+1293,Secondary Education,Graduate
+1294,Secondary Education,Dropout
+1295,Secondary Education,Dropout
+1296,Primary Education,Dropout
+1297,Trade School Education,Dropout
+1298,Secondary Education,Graduate
+1300,Secondary Education,Dropout
+1301,Secondary Education,Dropout
+1302,Secondary Education,Graduate
+1303,Secondary Education,Graduate
+1304,Secondary Education,Graduate
+1305,Primary Education,Graduate
+1306,Secondary Education,Graduate
+1307,Primary Education,Graduate
+1308,Trade School Education,Graduate
+1309,Trade School Education,Graduate
+1310,Secondary Education,Graduate
+1311,Trade School Education,Graduate
+1312,Trade School Education,Graduate
+1313,Secondary Education,Dropout
+1315,Primary Education,Graduate
+1317,Primary Education,Dropout
+1318,Secondary Education,Dropout
+1319,Secondary Education,Graduate
+1320,Secondary Education,Graduate
+1322,Trade School Education,Graduate
+1323,Trade School Education,Graduate
+1325,Trade School Education,Graduate
+1327,Primary Education,Dropout
+1328,Secondary Education,Graduate
+1330,Primary Education,Graduate
+1331,Secondary Education,Graduate
+1332,Secondary Education,Dropout
+1334,Trade School Education,Graduate
+1338,Secondary Education,Dropout
+1339,Trade School Education,Graduate
+1340,Trade School Education,Graduate
+1341,Primary Education,Graduate
+1342,Primary Education,Graduate
+1343,Trade School Education,Graduate
+1344,Secondary Education,Dropout
+1345,Secondary Education,Graduate
+1346,Secondary Education,Graduate
+1349,Primary Education,Graduate
+1350,Secondary Education,Graduate
+1351,Primary Education,Graduate
+1352,Secondary Education,Graduate
+1353,Trade School Education,Dropout
+1356,Primary Education,Dropout
+1357,Primary Education,Dropout
+1358,Secondary Education,Dropout
+1359,Primary Education,Dropout
+1360,Secondary Education,Dropout
+1361,Trade School Education,Graduate
+1362,Trade School Education,Dropout
+1363,Primary Education,Graduate
+1364,Primary Education,Graduate
+1365,Primary Education,Dropout
+1366,Secondary Education,Dropout
+1367,Trade School Education,Graduate
+1368,Primary Education,Dropout
+1369,Secondary Education,Graduate
+1370,Trade School Education,Graduate
+1371,Secondary Education,Graduate
+1372,Secondary Education,Graduate
+1373,Secondary Education,Graduate
+1374,Secondary Education,Dropout
+1375,Trade School Education,Dropout
+1377,Trade School Education,Graduate
+1378,Primary Education,Dropout
+1379,Secondary Education,Dropout
+1380,Secondary Education,Graduate
+1381,Trade School Education,Dropout
+1382,Secondary Education,Graduate
+1383,Primary Education,Graduate
+1384,Secondary Education,Graduate
+1385,Primary Education,Dropout
+1386,Secondary Education,Dropout
+1387,Trade School Education,Graduate
+1388,Trade School Education,Dropout
+1390,Secondary Education,Graduate
+1391,Secondary Education,Graduate
+1392,Primary Education,Dropout
+1393,Secondary Education,Graduate
+1394,Trade School Education,Graduate
+1395,Primary Education,Graduate
+1397,Primary Education,Graduate
+1398,Trade School Education,Graduate
+1399,Primary Education,Graduate
+1401,Trade School Education,Graduate
+1402,Primary Education,Graduate
+1403,Trade School Education,Graduate
+1404,Secondary Education,Dropout
+1405,Secondary Education,Dropout
+1406,Trade School Education,Graduate
+1408,Primary Education,Dropout
+1409,Trade School Education,Graduate
+1410,Trade School Education,Dropout
+1411,Primary Education,Graduate
+1412,Trade School Education,Graduate
+1414,Primary Education,Graduate
+1415,Primary Education,Graduate
+1416,Primary Education,Dropout
+1417,Secondary Education,Graduate
+1418,Primary Education,Graduate
+1419,Trade School Education,Dropout
+1420,Trade School Education,Dropout
+1422,Primary Education,Graduate
+1423,Trade School Education,Graduate
+1425,Primary Education,Graduate
+1426,Secondary Education,Graduate
+1429,Primary Education,Graduate
+1430,Trade School Education,Graduate
+1431,Secondary Education,Dropout
+1433,Secondary Education,Graduate
+1435,Trade School Education,Dropout
+1437,Trade School Education,Graduate
+1438,Secondary Education,Graduate
+1439,Trade School Education,Graduate
+1440,Primary Education,Graduate
+1441,Secondary Education,Graduate
+1442,Secondary Education,Graduate
+1443,Secondary Education,Dropout
+1444,Secondary Education,Graduate
+1445,Secondary Education,Dropout
+1446,Secondary Education,Dropout
+1447,Secondary Education,Dropout
+1448,Trade School Education,Dropout
+1449,Secondary Education,Graduate
+1450,Secondary Education,Dropout
+1451,Primary Education,Graduate
+1452,Secondary Education,Dropout
+1453,Primary Education,Graduate
+1455,Secondary Education,Dropout
+1459,Trade School Education,Dropout
+1460,Trade School Education,Dropout
+1461,Trade School Education,Graduate
+1463,Secondary Education,Dropout
+1465,Primary Education,Graduate
+1466,Primary Education,Dropout
+1468,Secondary Education,Graduate
+1469,Secondary Education,Graduate
+1472,Primary Education,Graduate
+1473,Trade School Education,Dropout
+1475,Primary Education,Graduate
+1476,Trade School Education,Dropout
+1477,Secondary Education,Graduate
+1478,Secondary Education,Dropout
+1479,Secondary Education,Dropout
+1480,Secondary Education,Dropout
+1481,Trade School Education,Graduate
+1482,Secondary Education,Graduate
+1483,Secondary Education,Graduate
+1484,Trade School Education,Graduate
+1485,Primary Education,Graduate
+1486,Secondary Education,Graduate
+1488,Primary Education,Dropout
+1489,Primary Education,Graduate
+1490,Trade School Education,Graduate
+1491,Secondary Education,Graduate
+1492,Secondary Education,Dropout
+1493,Primary Education,Graduate
+1494,Secondary Education,Dropout
+1495,Secondary Education,Graduate
+1496,Secondary Education,Graduate
+1497,Secondary Education,Graduate
+1499,Secondary Education,Graduate
+1500,Trade School Education,Graduate
+1501,Secondary Education,Dropout
+1502,Trade School Education,Graduate
+1505,Trade School Education,Dropout
+1507,Primary Education,Graduate
+1508,Primary Education,Graduate
+1509,Secondary Education,Dropout
+1510,Secondary Education,Dropout
+1512,Primary Education,Graduate
+1513,Secondary Education,Graduate
+1514,Primary Education,Dropout
+1515,Primary Education,Graduate
+1516,Primary Education,Dropout
+1517,Primary Education,Graduate
+1519,Secondary Education,Dropout
+1520,Primary Education,Dropout
+1521,Trade School Education,Graduate
+1522,Primary Education,Dropout
+1523,Primary Education,Dropout
+1525,Secondary Education,Graduate
+1526,Secondary Education,Dropout
+1527,Trade School Education,Graduate
+1528,Primary Education,Graduate
+1529,Secondary Education,Dropout
+1531,Trade School Education,Graduate
+1532,Trade School Education,Graduate
+1534,Secondary Education,Graduate
+1536,Trade School Education,Dropout
+1537,Trade School Education,Graduate
+1538,Trade School Education,Dropout
+1539,Trade School Education,Dropout
+1540,Trade School Education,Dropout
+1541,Trade School Education,Dropout
+1542,Primary Education,Dropout
+1543,Trade School Education,Dropout
+1544,Primary Education,Dropout
+1545,Secondary Education,Graduate
+1547,Primary Education,Dropout
+1548,Trade School Education,Dropout
+1549,Trade School Education,Dropout
+1550,Primary Education,Graduate
+1551,Trade School Education,Graduate
+1552,Trade School Education,Graduate
+1553,Secondary Education,Graduate
+1554,Trade School Education,Graduate
+1555,Secondary Education,Graduate
+1556,Trade School Education,Dropout
+1558,Trade School Education,Dropout
+1559,Secondary Education,Graduate
+1562,Secondary Education,Graduate
+1565,Secondary Education,Graduate
+1566,Primary Education,Graduate
+1567,Secondary Education,Graduate
+1569,Trade School Education,Dropout
+1571,Trade School Education,Dropout
+1572,Trade School Education,Dropout
+1573,Trade School Education,Dropout
+1574,Trade School Education,Graduate
+1575,Primary Education,Graduate
+1576,Trade School Education,Dropout
+1578,Trade School Education,Dropout
+1580,Trade School Education,Graduate
+1582,Primary Education,Dropout
+1583,Trade School Education,Dropout
+1584,Trade School Education,Graduate
+1585,Primary Education,Graduate
+1588,Trade School Education,Dropout
+1589,Secondary Education,Graduate
+1590,Secondary Education,Dropout
+1591,Secondary Education,Dropout
+1593,Trade School Education,Dropout
+1597,Primary Education,Graduate
+1598,Trade School Education,Dropout
+1599,Trade School Education,Dropout
+1600,Secondary Education,Graduate
+1603,Primary Education,Graduate
+1604,Secondary Education,Dropout
+1606,Secondary Education,Graduate
+1607,Secondary Education,Graduate
+1609,Trade School Education,Graduate
+1610,Secondary Education,Dropout
+1612,Primary Education,Graduate
+1613,Primary Education,Dropout
+1614,Trade School Education,Graduate
+1615,Primary Education,Dropout
+1616,Trade School Education,Graduate
+1617,Trade School Education,Dropout
+1618,Primary Education,Dropout
+1619,Secondary Education,Graduate
+1620,Primary Education,Graduate
+1621,Trade School Education,Graduate
+1622,Trade School Education,Dropout
+1623,Trade School Education,Dropout
+1624,Secondary Education,Dropout
+1625,Trade School Education,Dropout
+1626,Trade School Education,Graduate
+1627,Trade School Education,Dropout
+1628,Primary Education,Dropout
+1629,Trade School Education,Dropout
+1630,Trade School Education,Graduate
+1631,Primary Education,Dropout
+1632,Trade School Education,Graduate
+1634,Trade School Education,Graduate
+1635,Trade School Education,Graduate
+1636,Secondary Education,Graduate
+1637,Secondary Education,Graduate
+1638,Trade School Education,Dropout
+1639,Secondary Education,Graduate
+1640,Secondary Education,Graduate
+1641,Trade School Education,Graduate
+1642,Secondary Education,Graduate
+1643,Trade School Education,Graduate
+1644,Secondary Education,Dropout
+1645,Secondary Education,Dropout
+1646,Secondary Education,Graduate
+1647,Secondary Education,Graduate
+1648,Primary Education,Dropout
+1649,Secondary Education,Graduate
+1651,Secondary Education,Graduate
+1653,Primary Education,Graduate
+1654,Secondary Education,Dropout
+1655,Trade School Education,Graduate
+1656,Secondary Education,Graduate
+1658,Trade School Education,Graduate
+1660,Secondary Education,Graduate
+1661,Secondary Education,Graduate
+1662,Primary Education,Graduate
+1663,Secondary Education,Graduate
+1664,Trade School Education,Graduate
+1666,Secondary Education,Graduate
+1667,Secondary Education,Graduate
+1668,Secondary Education,Dropout
+1669,Trade School Education,Graduate
+1671,Primary Education,Graduate
+1672,Secondary Education,Dropout
+1673,Secondary Education,Graduate
+1674,Secondary Education,Graduate
+1675,Secondary Education,Dropout
+1676,Secondary Education,Dropout
+1677,Secondary Education,Graduate
+1678,Trade School Education,Graduate
+1679,Secondary Education,Dropout
+1682,Primary Education,Dropout
+1683,Secondary Education,Dropout
+1684,Trade School Education,Graduate
+1685,Secondary Education,Graduate
+1686,Trade School Education,Graduate
+1687,Secondary Education,Dropout
+1689,Trade School Education,Dropout
+1690,Primary Education,Dropout
+1691,Secondary Education,Dropout
+1692,Trade School Education,Graduate
+1694,Secondary Education,Dropout
+1695,Trade School Education,Graduate
+1696,Primary Education,Graduate
+1697,Primary Education,Dropout
+1698,Secondary Education,Dropout
+1699,Trade School Education,Dropout
+1700,Trade School Education,Graduate
+1701,Secondary Education,Graduate
+1702,Primary Education,Dropout
+1703,Trade School Education,Graduate
+1704,Secondary Education,Graduate
+1706,Secondary Education,Dropout
+1708,Primary Education,Dropout
+1709,Trade School Education,Graduate
+1711,Primary Education,Graduate
+1712,Secondary Education,Dropout
+1714,Primary Education,Graduate
+1715,Secondary Education,Graduate
+1716,Trade School Education,Graduate
+1718,Trade School Education,Dropout
+1719,Secondary Education,Dropout
+1720,Trade School Education,Graduate
+1721,Trade School Education,Graduate
+1722,Secondary Education,Graduate
+1723,Secondary Education,Graduate
+1724,Primary Education,Graduate
+1725,Trade School Education,Dropout
+1726,Primary Education,Graduate
+1728,Trade School Education,Dropout
+1729,Trade School Education,Graduate
+1730,Secondary Education,Graduate
+1731,Primary Education,Dropout
+1732,Trade School Education,Dropout
+1734,Secondary Education,Dropout
+1735,Secondary Education,Graduate
+1736,Secondary Education,Graduate
+1738,Secondary Education,Graduate
+1739,Trade School Education,Dropout
+1740,Secondary Education,Dropout
+1742,Secondary Education,Dropout
+1743,Secondary Education,Dropout
+1744,Trade School Education,Dropout
+1745,Secondary Education,Dropout
+1746,Primary Education,Dropout
+1747,Primary Education,Dropout
+1748,Secondary Education,Dropout
+1749,Trade School Education,Dropout
+1751,Trade School Education,Graduate
+1754,Secondary Education,Dropout
+1757,Secondary Education,Dropout
+1758,Secondary Education,Graduate
+1759,Secondary Education,Graduate
+1760,Primary Education,Graduate
+1761,Secondary Education,Dropout
+1762,Secondary Education,Graduate
+1763,Trade School Education,Graduate
+1764,Secondary Education,Graduate
+1765,Primary Education,Dropout
+1766,Secondary Education,Dropout
+1768,Secondary Education,Dropout
+1772,Secondary Education,Graduate
+1775,Secondary Education,Dropout
+1776,Primary Education,Graduate
+1777,Trade School Education,Dropout
+1778,Trade School Education,Graduate
+1779,Trade School Education,Graduate
+1781,Secondary Education,Graduate
+1782,Trade School Education,Dropout
+1784,Trade School Education,Dropout
+1786,Trade School Education,Dropout
+1787,Trade School Education,Graduate
+1788,Secondary Education,Dropout
+1789,Primary Education,Graduate
+1790,Trade School Education,Graduate
+1791,Secondary Education,Dropout
+1792,Secondary Education,Dropout
+1793,Secondary Education,Dropout
+1795,Trade School Education,Graduate
+1796,Trade School Education,Graduate
+1797,Trade School Education,Dropout
+1798,Trade School Education,Dropout
+1799,Trade School Education,Dropout
+1800,Secondary Education,Dropout
+1801,Primary Education,Graduate
+1802,Secondary Education,Graduate
+1803,Primary Education,Dropout
+1804,Primary Education,Dropout
+1805,Secondary Education,Dropout
+1807,Secondary Education,Dropout
+1809,Secondary Education,Graduate
+1810,Trade School Education,Graduate
+1811,Secondary Education,Graduate
+1812,Trade School Education,Dropout
+1813,Trade School Education,Graduate
+1814,Secondary Education,Dropout
+1816,Trade School Education,Graduate
+1817,Trade School Education,Graduate
+1818,Secondary Education,Dropout
+1819,Secondary Education,Dropout
+1823,Secondary Education,Dropout
+1824,Secondary Education,Graduate
+1825,Primary Education,Graduate
+1826,Trade School Education,Graduate
+1828,Trade School Education,Dropout
+1830,Trade School Education,Dropout
+1831,Secondary Education,Graduate
+1832,Trade School Education,Graduate
+1833,Primary Education,Dropout
+1834,Primary Education,Graduate
+1835,Trade School Education,Graduate
+1836,Trade School Education,Graduate
+1838,Secondary Education,Graduate
+1839,Secondary Education,Graduate
+1840,Trade School Education,Dropout
+1841,Primary Education,Dropout
+1842,Secondary Education,Graduate
+1844,Secondary Education,Graduate
+1845,Secondary Education,Dropout
+1846,Trade School Education,Dropout
+1847,Trade School Education,Dropout
+1848,Secondary Education,Graduate
+1850,Secondary Education,Dropout
+1851,Primary Education,Dropout
+1852,Secondary Education,Graduate
+1853,Secondary Education,Graduate
+1854,Trade School Education,Dropout
+1855,Primary Education,Dropout
+1856,Secondary Education,Graduate
+1857,Primary Education,Graduate
+1858,Secondary Education,Graduate
+1860,Primary Education,Dropout
+1862,Secondary Education,Dropout
+1863,Trade School Education,Graduate
+1864,Primary Education,Dropout
+1865,Secondary Education,Graduate
+1866,Primary Education,Dropout
+1867,Trade School Education,Dropout
+1868,Trade School Education,Graduate
+1869,Primary Education,Graduate
+1870,Primary Education,Dropout
+1871,Secondary Education,Dropout
+1872,Secondary Education,Graduate
+1873,Primary Education,Dropout
+1874,Primary Education,Graduate
+1875,Trade School Education,Graduate
+1876,Trade School Education,Dropout
+1877,Trade School Education,Dropout
+1878,Secondary Education,Dropout
+1879,Primary Education,Graduate
+1881,Trade School Education,Dropout
+1882,Primary Education,Dropout
+1883,Secondary Education,Graduate
+1885,Primary Education,Graduate
+1886,Trade School Education,Dropout
+1887,Trade School Education,Dropout
+1888,Secondary Education,Graduate
+1889,Secondary Education,Graduate
+1890,Trade School Education,Graduate
+1891,Trade School Education,Graduate
+1892,Secondary Education,Dropout
+1894,Secondary Education,Graduate
+1897,Secondary Education,Dropout
+1898,Primary Education,Graduate
+1899,Secondary Education,Graduate
+1900,Secondary Education,Graduate
+1901,Secondary Education,Graduate
+1902,Secondary Education,Graduate
+1903,Primary Education,Graduate
+1904,Primary Education,Graduate
+1905,Secondary Education,Graduate
+1906,Secondary Education,Graduate
+1907,Primary Education,Graduate
+1909,Secondary Education,Graduate
+1910,Secondary Education,Graduate
+1911,Trade School Education,Graduate
+1912,Trade School Education,Graduate
+1913,Primary Education,Dropout
+1914,Primary Education,Graduate
+1915,Secondary Education,Graduate
+1916,Primary Education,Graduate
+1917,Primary Education,Graduate
+1918,Primary Education,Graduate
+1921,Trade School Education,Graduate
+1923,Trade School Education,Graduate
+1924,Secondary Education,Dropout
+1925,Secondary Education,Graduate
+1926,Trade School Education,Graduate
+1927,Primary Education,Graduate
+1929,Secondary Education,Graduate
+1930,Primary Education,Graduate
+1931,Trade School Education,Graduate
+1932,Primary Education,Graduate
+1933,Primary Education,Graduate
+1934,Primary Education,Graduate
+1935,Secondary Education,Graduate
+1936,Secondary Education,Graduate
+1937,Primary Education,Graduate
+1938,Primary Education,Dropout
+1939,Secondary Education,Graduate
+1940,Secondary Education,Graduate
+1941,Trade School Education,Graduate
+1942,Primary Education,Graduate
+1943,Secondary Education,Graduate
+1944,Secondary Education,Dropout
+1945,Trade School Education,Graduate
+1946,Primary Education,Graduate
+1947,Secondary Education,Graduate
+1948,Trade School Education,Graduate
+1949,Trade School Education,Graduate
+1950,Trade School Education,Dropout
+1951,Primary Education,Dropout
+1952,Primary Education,Dropout
+1953,Secondary Education,Graduate
+1955,Primary Education,Graduate
+1957,Trade School Education,Graduate
+1958,Primary Education,Dropout
+1960,Secondary Education,Graduate
+1962,Secondary Education,Graduate
+1963,Secondary Education,Graduate
+1964,Secondary Education,Graduate
+1965,Secondary Education,Graduate
+1966,Secondary Education,Graduate
+1969,Secondary Education,Graduate
+1971,Secondary Education,Graduate
+1972,Primary Education,Dropout
+1973,Primary Education,Graduate
+1974,Secondary Education,Graduate
+1975,Secondary Education,Dropout
+1977,Secondary Education,Graduate
+1979,Primary Education,Graduate
+1980,Primary Education,Graduate
+1981,Primary Education,Graduate
+1982,Trade School Education,Graduate
+1983,Trade School Education,Graduate
+1984,Primary Education,Graduate
+1985,Trade School Education,Graduate
+1986,Trade School Education,Graduate
+1988,Primary Education,Graduate
+1990,Trade School Education,Graduate
+1991,Trade School Education,Dropout
+1993,Trade School Education,Graduate
+1994,Primary Education,Dropout
+1995,Primary Education,Graduate
+1996,Secondary Education,Graduate
+1997,Trade School Education,Graduate
+1998,Trade School Education,Dropout
+1999,Primary Education,Graduate
+2000,Secondary Education,Dropout
+2001,Trade School Education,Dropout
+2002,Trade School Education,Graduate
+2003,Primary Education,Dropout
+2004,Primary Education,Dropout
+2005,Secondary Education,Graduate
+2006,Trade School Education,Graduate
+2007,Trade School Education,Graduate
+2008,Trade School Education,Graduate
+2009,Secondary Education,Dropout
+2010,Trade School Education,Graduate
+2011,Trade School Education,Graduate
+2012,Trade School Education,Dropout
+2013,Trade School Education,Dropout
+2014,Primary Education,Dropout
+2015,Primary Education,Graduate
+2016,Secondary Education,Graduate
+2017,Trade School Education,Graduate
+2019,Secondary Education,Graduate
+2020,Primary Education,Dropout
+2021,Primary Education,Dropout
+2022,Trade School Education,Dropout
+2023,Secondary Education,Graduate
+2025,Secondary Education,Graduate
+2026,Secondary Education,Graduate
+2028,Primary Education,Graduate
+2029,Trade School Education,Graduate
+2030,Primary Education,Graduate
+2031,Trade School Education,Dropout
+2032,Primary Education,Graduate
+2033,Trade School Education,Dropout
+2034,Trade School Education,Graduate
+2036,Secondary Education,Dropout
+2037,Secondary Education,Dropout
+2038,Trade School Education,Graduate
+2039,Trade School Education,Graduate
+2040,Trade School Education,Dropout
+2041,Trade School Education,Graduate
+2042,Trade School Education,Graduate
+2043,Secondary Education,Graduate
+2044,Secondary Education,Graduate
+2045,Primary Education,Graduate
+2046,Trade School Education,Dropout
+2047,Trade School Education,Dropout
+2048,Secondary Education,Graduate
+2049,Secondary Education,Graduate
+2050,Trade School Education,Graduate
+2051,Trade School Education,Graduate
+2052,Secondary Education,Dropout
+2054,Secondary Education,Graduate
+2055,Trade School Education,Graduate
+2056,Secondary Education,Graduate
+2058,Secondary Education,Graduate
+2059,Trade School Education,Dropout
+2060,Primary Education,Graduate
+2061,Primary Education,Graduate
+2062,Secondary Education,Graduate
+2063,Trade School Education,Graduate
+2064,Trade School Education,Graduate
+2065,Secondary Education,Graduate
+2066,Primary Education,Graduate
+2067,Secondary Education,Graduate
+2069,Trade School Education,Dropout
+2070,Secondary Education,Graduate
+2071,Primary Education,Graduate
+2072,Trade School Education,Graduate
+2073,Secondary Education,Graduate
+2074,Primary Education,Graduate
+2075,Trade School Education,Graduate
+2076,Trade School Education,Graduate
+2077,Primary Education,Graduate
+2078,Secondary Education,Graduate
+2079,Trade School Education,Graduate
+2080,Trade School Education,Graduate
+2081,Secondary Education,Graduate
+2082,Trade School Education,Graduate
+2083,Secondary Education,Graduate
+2084,Primary Education,Graduate
+2085,Primary Education,Dropout
+2086,Secondary Education,Dropout
+2087,Secondary Education,Dropout
+2088,Primary Education,Graduate
+2089,Secondary Education,Dropout
+2090,Trade School Education,Graduate
+2092,Secondary Education,Graduate
+2093,Trade School Education,Graduate
+2094,Secondary Education,Dropout
+2095,Secondary Education,Graduate
+2096,Secondary Education,Dropout
+2097,Trade School Education,Graduate
+2098,Trade School Education,Graduate
+2099,Primary Education,Dropout
+2101,Secondary Education,Graduate
+2102,Trade School Education,Graduate
+2103,Primary Education,Dropout
+2104,Primary Education,Graduate
+2107,Trade School Education,Graduate
+2109,Secondary Education,Graduate
+2111,Primary Education,Graduate
+2112,Primary Education,Graduate
+2113,Trade School Education,Graduate
+2114,Trade School Education,Dropout
+2115,Secondary Education,Dropout
+2116,Secondary Education,Graduate
+2117,Trade School Education,Dropout
+2118,Primary Education,Graduate
+2120,Primary Education,Dropout
+2121,Secondary Education,Graduate
+2122,Trade School Education,Graduate
+2123,Secondary Education,Dropout
+2124,Secondary Education,Graduate
+2125,Trade School Education,Dropout
+2126,Trade School Education,Dropout
+2127,Primary Education,Dropout
+2128,Primary Education,Dropout
+2129,Primary Education,Graduate
+2131,Secondary Education,Graduate
+2132,Primary Education,Graduate
+2133,Secondary Education,Graduate
+2134,Primary Education,Graduate
+2135,Primary Education,Dropout
+2136,Trade School Education,Graduate
+2137,Trade School Education,Graduate
+2138,Primary Education,Graduate
+2139,Primary Education,Dropout
+2141,Trade School Education,Graduate
+2142,Secondary Education,Graduate
+2143,Secondary Education,Graduate
+2144,Trade School Education,Graduate
+2146,Trade School Education,Graduate
+2147,Trade School Education,Graduate
+2148,Primary Education,Graduate
+2149,Trade School Education,Graduate
+2150,Secondary Education,Graduate
+2152,Trade School Education,Graduate
+2153,Secondary Education,Graduate
+2154,Trade School Education,Graduate
+2155,Primary Education,Graduate
+2157,Trade School Education,Graduate
+2158,Secondary Education,Graduate
+2159,Trade School Education,Dropout
+2160,Secondary Education,Graduate
+2161,Primary Education,Dropout
+2162,Primary Education,Dropout
+2163,Secondary Education,Graduate
+2164,Secondary Education,Graduate
+2165,Secondary Education,Graduate
+2166,Trade School Education,Graduate
+2167,Trade School Education,Graduate
+2168,Secondary Education,Graduate
+2169,Secondary Education,Graduate
+2170,Secondary Education,Graduate
+2171,Secondary Education,Graduate
+2172,Trade School Education,Graduate
+2173,Primary Education,Dropout
+2174,Secondary Education,Graduate
+2175,Primary Education,Graduate
+2176,Secondary Education,Graduate
+2177,Primary Education,Dropout
+2178,Secondary Education,Graduate
+2179,Trade School Education,Graduate
+2180,Trade School Education,Dropout
+2181,Primary Education,Graduate
+2182,Primary Education,Graduate
+2183,Trade School Education,Dropout
+2185,Primary Education,Graduate
+2187,Primary Education,Graduate
+2188,Secondary Education,Graduate
+2189,Secondary Education,Dropout
+2191,Secondary Education,Dropout
+2192,Secondary Education,Dropout
+2194,Trade School Education,Graduate
+2198,Trade School Education,Dropout
+2199,Secondary Education,Dropout
+2200,Trade School Education,Dropout
+2201,Trade School Education,Graduate
+2202,Primary Education,Graduate
+2203,Primary Education,Dropout
+2204,Secondary Education,Graduate
+2206,Trade School Education,Dropout
+2209,Secondary Education,Dropout
+2210,Secondary Education,Graduate
+2211,Trade School Education,Graduate
+2213,Primary Education,Dropout
+2214,Primary Education,Graduate
+2216,Secondary Education,Graduate
+2217,Primary Education,Dropout
+2218,Primary Education,Graduate
+2219,Trade School Education,Graduate
+2220,Secondary Education,Graduate
+2221,Secondary Education,Graduate
+2223,Trade School Education,Dropout
+2224,Primary Education,Graduate
+2225,Trade School Education,Dropout
+2226,Secondary Education,Graduate
+2227,Trade School Education,Dropout
+2228,Trade School Education,Dropout
+2229,Secondary Education,Graduate
+2230,Secondary Education,Graduate
+2231,Secondary Education,Dropout
+2232,Secondary Education,Dropout
+2233,Primary Education,Dropout
+2235,Primary Education,Graduate
+2237,Trade School Education,Dropout
+2240,Secondary Education,Graduate
+2243,Trade School Education,Graduate
+2244,Trade School Education,Dropout
+2245,Trade School Education,Graduate
+2248,Trade School Education,Dropout
+2249,Secondary Education,Graduate
+2250,Secondary Education,Dropout
+2251,Primary Education,Dropout
+2252,Secondary Education,Dropout
+2253,Primary Education,Dropout
+2254,Primary Education,Dropout
+2255,Trade School Education,Dropout
+2256,Trade School Education,Dropout
+2258,Secondary Education,Dropout
+2259,Trade School Education,Graduate
+2261,Secondary Education,Dropout
+2262,Secondary Education,Dropout
+2263,Trade School Education,Dropout
+2266,Trade School Education,Dropout
+2267,Secondary Education,Dropout
+2268,Secondary Education,Dropout
+2269,Trade School Education,Dropout
+2270,Primary Education,Dropout
+2271,Trade School Education,Graduate
+2272,Trade School Education,Dropout
+2273,Primary Education,Dropout
+2274,Trade School Education,Dropout
+2275,Secondary Education,Dropout
+2276,Trade School Education,Graduate
+2277,Secondary Education,Graduate
+2279,Trade School Education,Dropout
+2280,Secondary Education,Graduate
+2282,Trade School Education,Dropout
+2283,Secondary Education,Graduate
+2285,Trade School Education,Dropout
+2286,Primary Education,Graduate
+2287,Secondary Education,Graduate
+2289,Secondary Education,Dropout
+2290,Secondary Education,Dropout
+2291,Trade School Education,Graduate
+2292,Primary Education,Dropout
+2293,Primary Education,Graduate
+2294,Secondary Education,Dropout
+2295,Secondary Education,Graduate
+2296,Secondary Education,Dropout
+2297,Secondary Education,Graduate
+2298,Secondary Education,Graduate
+2299,Secondary Education,Dropout
+2304,Secondary Education,Dropout
+2306,Secondary Education,Dropout
+2307,Secondary Education,Dropout
+2308,Primary Education,Dropout
+2309,Secondary Education,Graduate
+2310,Primary Education,Graduate
+2311,Secondary Education,Graduate
+2312,Primary Education,Dropout
+2313,Trade School Education,Graduate
+2314,Secondary Education,Graduate
+2315,Primary Education,Dropout
+2316,Secondary Education,Dropout
+2317,Secondary Education,Dropout
+2318,Secondary Education,Dropout
+2319,Secondary Education,Graduate
+2320,Primary Education,Dropout
+2322,Trade School Education,Dropout
+2324,Secondary Education,Graduate
+2325,Trade School Education,Dropout
+2327,Trade School Education,Dropout
+2328,Trade School Education,Graduate
+2329,Trade School Education,Dropout
+2330,Primary Education,Dropout
+2331,Primary Education,Dropout
+2332,Secondary Education,Graduate
+2333,Primary Education,Dropout
+2334,Trade School Education,Graduate
+2335,Secondary Education,Graduate
+2336,Trade School Education,Dropout
+2337,Secondary Education,Dropout
+2338,Trade School Education,Dropout
+2340,Trade School Education,Dropout
+2342,Secondary Education,Graduate
+2343,Trade School Education,Graduate
+2344,Secondary Education,Graduate
+2345,Secondary Education,Graduate
+2347,Secondary Education,Graduate
+2348,Primary Education,Dropout
+2349,Trade School Education,Graduate
+2350,Primary Education,Graduate
+2351,Secondary Education,Graduate
+2352,Secondary Education,Graduate
+2353,Trade School Education,Graduate
+2354,Trade School Education,Dropout
+2355,Secondary Education,Graduate
+2356,Secondary Education,Graduate
+2357,Secondary Education,Dropout
+2358,Secondary Education,Graduate
+2359,Secondary Education,Dropout
+2361,Primary Education,Dropout
+2362,Primary Education,Graduate
+2365,Secondary Education,Graduate
+2367,Primary Education,Graduate
+2369,Secondary Education,Dropout
+2371,Primary Education,Graduate
+2375,Trade School Education,Dropout
+2376,Trade School Education,Graduate
+2377,Trade School Education,Dropout
+2378,Secondary Education,Dropout
+2379,Secondary Education,Graduate
+2380,Secondary Education,Graduate
+2381,Primary Education,Graduate
+2382,Secondary Education,Dropout
+2385,Primary Education,Graduate
+2387,Secondary Education,Graduate
+2388,Trade School Education,Dropout
+2389,Primary Education,Dropout
+2390,Secondary Education,Dropout
+2391,Trade School Education,Dropout
+2393,Secondary Education,Dropout
+2394,Trade School Education,Graduate
+2396,Secondary Education,Dropout
+2398,Secondary Education,Graduate
+2399,Secondary Education,Graduate
+2400,Secondary Education,Dropout
+2401,Trade School Education,Graduate
+2402,Primary Education,Dropout
+2403,Trade School Education,Graduate
+2404,Secondary Education,Dropout
+2405,Trade School Education,Graduate
+2406,Trade School Education,Graduate
+2407,Trade School Education,Dropout
+2408,Trade School Education,Dropout
+2409,Trade School Education,Dropout
+2410,Primary Education,Dropout
+2411,Primary Education,Dropout
+2413,Primary Education,Graduate
+2414,Primary Education,Graduate
+2415,Primary Education,Dropout
+2416,Trade School Education,Dropout
+2417,Trade School Education,Graduate
+2418,Secondary Education,Graduate
+2420,Trade School Education,Dropout
+2421,Trade School Education,Dropout
+2422,Trade School Education,Graduate
+2423,Secondary Education,Dropout
+2424,Trade School Education,Dropout
+2425,Primary Education,Dropout
+2426,Primary Education,Dropout
+2427,Trade School Education,Graduate
+2428,Secondary Education,Dropout
+2429,Primary Education,Dropout
+2430,Trade School Education,Graduate
+2431,Trade School Education,Graduate
+2432,Trade School Education,Dropout
+2435,Trade School Education,Graduate
+2436,Secondary Education,Graduate
+2437,Trade School Education,Dropout
+2438,Secondary Education,Dropout
+2439,Primary Education,Dropout
+2440,Secondary Education,Dropout
+2442,Primary Education,Dropout
+2443,Secondary Education,Graduate
+2444,Primary Education,Dropout
+2446,Trade School Education,Dropout
+2447,Trade School Education,Graduate
+2448,Trade School Education,Dropout
+2449,Trade School Education,Dropout
+2451,Secondary Education,Dropout
+2452,Secondary Education,Graduate
+2454,Secondary Education,Dropout
+2455,Primary Education,Graduate
+2456,Trade School Education,Graduate
+2458,Primary Education,Dropout
+2459,Primary Education,Graduate
+2460,Trade School Education,Dropout
+2461,Primary Education,Dropout
+2462,Secondary Education,Dropout
+2463,Trade School Education,Dropout
+2464,Trade School Education,Dropout
+2465,Trade School Education,Dropout
+2468,Trade School Education,Dropout
+2469,Trade School Education,Dropout
+2471,Trade School Education,Dropout
+2472,Secondary Education,Dropout
+2473,Secondary Education,Dropout
+2474,Secondary Education,Graduate
+2475,Primary Education,Dropout
+2476,Trade School Education,Graduate
+2478,Secondary Education,Graduate
+2479,Primary Education,Dropout
+2481,Primary Education,Graduate
+2482,Trade School Education,Graduate
+2483,Secondary Education,Graduate
+2484,Trade School Education,Graduate
+2485,Trade School Education,Dropout
+2486,Primary Education,Dropout
+2487,Primary Education,Dropout
+2489,Secondary Education,Graduate
+2492,Secondary Education,Dropout
+2493,Trade School Education,Graduate
+2494,Secondary Education,Graduate
+2495,Trade School Education,Graduate
+2496,Primary Education,Graduate
+2497,Trade School Education,Graduate
+2498,Secondary Education,Dropout
+2499,Trade School Education,Dropout
+2500,Secondary Education,Graduate
+2501,Trade School Education,Graduate
+2502,Primary Education,Graduate
+2503,Secondary Education,Graduate
+2504,Trade School Education,Dropout
+2505,Primary Education,Graduate
+2506,Primary Education,Graduate
+2507,Trade School Education,Graduate
+2508,Primary Education,Graduate
+2509,Primary Education,Graduate
+2510,Primary Education,Dropout
+2512,Secondary Education,Graduate
+2513,Primary Education,Graduate
+2514,Secondary Education,Dropout
+2516,Secondary Education,Graduate
+2517,Primary Education,Graduate
+2518,Primary Education,Graduate
+2519,Trade School Education,Graduate
+2520,Trade School Education,Graduate
+2521,Secondary Education,Graduate
+2522,Secondary Education,Graduate
+2523,Primary Education,Dropout
+2524,Secondary Education,Dropout
+2525,Secondary Education,Graduate
+2526,Secondary Education,Dropout
+2527,Primary Education,Graduate
+2528,Secondary Education,Graduate
+2529,Primary Education,Graduate
+2530,Secondary Education,Graduate
+2531,Trade School Education,Graduate
+2532,Trade School Education,Graduate
+2534,Trade School Education,Graduate
+2537,Primary Education,Graduate
+2538,Trade School Education,Graduate
+2539,Trade School Education,Graduate
+2540,Secondary Education,Dropout
+2541,Primary Education,Dropout
+2542,Secondary Education,Graduate
+2543,Primary Education,Dropout
+2545,Secondary Education,Graduate
+2546,Primary Education,Graduate
+2547,Primary Education,Graduate
+2548,Primary Education,Graduate
+2549,Secondary Education,Dropout
+2550,Trade School Education,Graduate
+2552,Trade School Education,Graduate
+2553,Primary Education,Dropout
+2556,Secondary Education,Graduate
+2559,Primary Education,Dropout
+2560,Secondary Education,Graduate
+2561,Primary Education,Graduate
+2562,Trade School Education,Dropout
+2564,Trade School Education,Graduate
+2565,Primary Education,Graduate
+2566,Trade School Education,Graduate
+2569,Primary Education,Graduate
+2570,Primary Education,Graduate
+2571,Trade School Education,Graduate
+2572,Secondary Education,Graduate
+2573,Trade School Education,Graduate
+2574,Trade School Education,Graduate
+2575,Trade School Education,Graduate
+2576,Trade School Education,Dropout
+2577,Trade School Education,Dropout
+2578,Primary Education,Graduate
+2579,Trade School Education,Graduate
+2580,Primary Education,Graduate
+2581,Trade School Education,Dropout
+2582,Trade School Education,Graduate
+2584,Primary Education,Graduate
+2585,Trade School Education,Graduate
+2588,Trade School Education,Dropout
+2590,Primary Education,Dropout
+2592,Trade School Education,Graduate
+2593,Primary Education,Dropout
+2595,Primary Education,Graduate
+2596,Secondary Education,Dropout
+2597,Primary Education,Dropout
+2600,Trade School Education,Dropout
+2602,Trade School Education,Graduate
+2603,Trade School Education,Dropout
+2604,Trade School Education,Dropout
+2605,Trade School Education,Graduate
+2606,Trade School Education,Graduate
+2607,Trade School Education,Dropout
+2608,Trade School Education,Graduate
+2609,Trade School Education,Dropout
+2610,Secondary Education,Graduate
+2611,Secondary Education,Graduate
+2612,Secondary Education,Graduate
+2613,Secondary Education,Dropout
+2614,Secondary Education,Dropout
+2615,Secondary Education,Dropout
+2616,Primary Education,Dropout
+2617,Secondary Education,Graduate
+2618,Trade School Education,Dropout
+2619,Secondary Education,Graduate
+2621,Secondary Education,Graduate
+2622,Primary Education,Graduate
+2623,Trade School Education,Dropout
+2624,Secondary Education,Graduate
+2625,Trade School Education,Dropout
+2626,Secondary Education,Graduate
+2630,Secondary Education,Dropout
+2631,Trade School Education,Dropout
+2632,Secondary Education,Graduate
+2633,Primary Education,Graduate
+2635,Secondary Education,Dropout
+2636,Trade School Education,Dropout
+2637,Secondary Education,Graduate
+2638,Trade School Education,Graduate
+2639,Primary Education,Graduate
+2640,Trade School Education,Dropout
+2641,Trade School Education,Graduate
+2642,Secondary Education,Dropout
+2643,Trade School Education,Dropout
+2644,Trade School Education,Graduate
+2645,Secondary Education,Dropout
+2647,Trade School Education,Dropout
+2648,Trade School Education,Dropout
+2649,Primary Education,Dropout
+2651,Secondary Education,Dropout
+2652,Secondary Education,Graduate
+2653,Trade School Education,Dropout
+2654,Secondary Education,Graduate
+2655,Trade School Education,Graduate
+2656,Secondary Education,Graduate
+2658,Trade School Education,Dropout
+2659,Trade School Education,Dropout
+2660,Primary Education,Dropout
+2661,Trade School Education,Graduate
+2662,Secondary Education,Dropout
+2663,Secondary Education,Dropout
+2664,Trade School Education,Graduate
+2665,Trade School Education,Dropout
+2666,Trade School Education,Graduate
+2667,Primary Education,Dropout
+2669,Trade School Education,Dropout
+2671,Trade School Education,Graduate
+2672,Primary Education,Dropout
+2674,Primary Education,Graduate
+2676,Trade School Education,Dropout
+2677,Trade School Education,Graduate
+2679,Trade School Education,Graduate
+2680,Primary Education,Graduate
+2681,Trade School Education,Dropout
+2682,Trade School Education,Dropout
+2683,Secondary Education,Graduate
+2684,Secondary Education,Dropout
+2687,Primary Education,Dropout
+2689,Secondary Education,Dropout
+2690,Primary Education,Dropout
+2691,Secondary Education,Graduate
+2692,Primary Education,Graduate
+2693,Trade School Education,Graduate
+2694,Secondary Education,Graduate
+2696,Primary Education,Dropout
+2698,Trade School Education,Dropout
+2699,Trade School Education,Graduate
+2700,Secondary Education,Dropout
+2701,Secondary Education,Dropout
+2702,Trade School Education,Dropout
+2703,Secondary Education,Dropout
+2705,Primary Education,Dropout
+2706,Secondary Education,Graduate
+2707,Secondary Education,Dropout
+2708,Secondary Education,Graduate
+2710,Trade School Education,Graduate
+2711,Trade School Education,Dropout
+2712,Trade School Education,Dropout
+2713,Secondary Education,Graduate
+2714,Secondary Education,Dropout
+2715,Trade School Education,Graduate
+2717,Secondary Education,Graduate
+2718,Secondary Education,Graduate
+2719,Secondary Education,Graduate
+2720,Secondary Education,Graduate
+2723,Primary Education,Dropout
+2724,Trade School Education,Graduate
+2726,Primary Education,Graduate
+2727,Trade School Education,Graduate
+2729,Trade School Education,Graduate
+2730,Secondary Education,Graduate
+2731,Secondary Education,Graduate
+2734,Secondary Education,Graduate
+2735,Trade School Education,Graduate
+2736,Secondary Education,Graduate
+2737,Secondary Education,Dropout
+2738,Trade School Education,Graduate
+2739,Trade School Education,Graduate
+2740,Primary Education,Graduate
+2741,Primary Education,Graduate
+2742,Trade School Education,Graduate
+2743,Secondary Education,Graduate
+2744,Primary Education,Dropout
+2745,Trade School Education,Graduate
+2747,Secondary Education,Dropout
+2748,Trade School Education,Dropout
+2749,Trade School Education,Dropout
+2750,Secondary Education,Dropout
+2751,Secondary Education,Graduate
+2752,Primary Education,Dropout
+2753,Trade School Education,Graduate
+2754,Trade School Education,Dropout
+2755,Trade School Education,Graduate
+2756,Trade School Education,Dropout
+2757,Secondary Education,Dropout
+2760,Secondary Education,Dropout
+2763,Primary Education,Graduate
+2765,Secondary Education,Graduate
+2766,Trade School Education,Graduate
+2767,Primary Education,Dropout
+2768,Trade School Education,Graduate
+2769,Secondary Education,Dropout
+2770,Primary Education,Graduate
+2771,Trade School Education,Graduate
+2773,Secondary Education,Graduate
+2775,Trade School Education,Graduate
+2778,Secondary Education,Graduate
+2779,Primary Education,Graduate
+2780,Trade School Education,Graduate
+2781,Primary Education,Dropout
+2784,Trade School Education,Graduate
+2785,Trade School Education,Graduate
+2786,Trade School Education,Dropout
+2788,Primary Education,Dropout
+2789,Trade School Education,Dropout
+2790,Primary Education,Dropout
+2791,Trade School Education,Graduate
+2792,Trade School Education,Graduate
+2793,Trade School Education,Graduate
+2795,Trade School Education,Graduate
+2796,Trade School Education,Dropout
+2797,Secondary Education,Graduate
+2798,Primary Education,Graduate
+2799,Secondary Education,Dropout
+2800,Secondary Education,Graduate
+2801,Secondary Education,Dropout
+2802,Primary Education,Graduate
+2803,Primary Education,Graduate
+2804,Primary Education,Graduate
+2805,Primary Education,Graduate
+2806,Trade School Education,Graduate
+2808,Secondary Education,Graduate
+2810,Trade School Education,Graduate
+2811,Primary Education,Dropout
+2812,Secondary Education,Graduate
+2813,Secondary Education,Graduate
+2814,Secondary Education,Graduate
+2815,Trade School Education,Graduate
+2816,Primary Education,Graduate
+2818,Trade School Education,Graduate
+2820,Secondary Education,Graduate
+2821,Secondary Education,Dropout
+2822,Secondary Education,Graduate
+2825,Primary Education,Dropout
+2826,Secondary Education,Graduate
+2827,Trade School Education,Graduate
+2829,Secondary Education,Dropout
+2830,Primary Education,Graduate
+2834,Primary Education,Graduate
+2835,Primary Education,Graduate
+2836,Primary Education,Dropout
+2838,Trade School Education,Dropout
+2839,Trade School Education,Graduate
+2841,Trade School Education,Graduate
+2842,Secondary Education,Graduate
+2843,Trade School Education,Dropout
+2845,Trade School Education,Graduate
+2846,Primary Education,Dropout
+2847,Trade School Education,Dropout
+2848,Trade School Education,Dropout
+2849,Secondary Education,Graduate
+2850,Secondary Education,Dropout
+2851,Secondary Education,Graduate
+2852,Secondary Education,Graduate
+2853,Secondary Education,Graduate
+2854,Primary Education,Dropout
+2855,Secondary Education,Dropout
+2856,Secondary Education,Graduate
+2857,Secondary Education,Dropout
+2858,Secondary Education,Graduate
+2860,Trade School Education,Graduate
+2861,Secondary Education,Graduate
+2862,Trade School Education,Graduate
+2863,Trade School Education,Graduate
+2864,Secondary Education,Dropout
+2865,Trade School Education,Graduate
+2866,Secondary Education,Dropout
+2867,Trade School Education,Graduate
+2869,Trade School Education,Graduate
+2870,Secondary Education,Graduate
+2871,Trade School Education,Dropout
+2873,Trade School Education,Graduate
+2874,Trade School Education,Dropout
+2876,Secondary Education,Dropout
+2878,Trade School Education,Dropout
+2879,Trade School Education,Dropout
+2880,Trade School Education,Graduate
+2882,Trade School Education,Dropout
+2883,Trade School Education,Graduate
+2884,Trade School Education,Graduate
+2885,Trade School Education,Graduate
+2886,Trade School Education,Graduate
+2887,Primary Education,Graduate
+2888,Trade School Education,Graduate
+2889,Trade School Education,Graduate
+2890,Primary Education,Graduate
+2891,Secondary Education,Dropout
+2892,Secondary Education,Graduate
+2893,Primary Education,Dropout
+2894,Trade School Education,Graduate
+2895,Trade School Education,Graduate
+2897,Secondary Education,Graduate
+2898,Secondary Education,Graduate
+2899,Secondary Education,Graduate
+2901,Primary Education,Dropout
+2902,Trade School Education,Graduate
+2903,Secondary Education,Graduate
+2904,Trade School Education,Dropout
+2905,Secondary Education,Graduate
+2906,Trade School Education,Graduate
+2907,Secondary Education,Graduate
+2908,Trade School Education,Graduate
+2909,Secondary Education,Dropout
+2910,Secondary Education,Dropout
+2911,Primary Education,Graduate
+2912,Primary Education,Dropout
+2913,Primary Education,Graduate
+2914,Trade School Education,Dropout
+2916,Trade School Education,Graduate
+2917,Trade School Education,Graduate
+2918,Trade School Education,Dropout
+2919,Primary Education,Dropout
+2920,Primary Education,Graduate
+2922,Trade School Education,Dropout
+2923,Primary Education,Dropout
+2924,Primary Education,Graduate
+2925,Trade School Education,Graduate
+2926,Secondary Education,Graduate
+2927,Primary Education,Graduate
+2928,Trade School Education,Dropout
+2930,Trade School Education,Dropout
+2931,Primary Education,Dropout
+2932,Trade School Education,Dropout
+2933,Primary Education,Graduate
+2934,Primary Education,Dropout
+2935,Primary Education,Dropout
+2936,Primary Education,Dropout
+2937,Primary Education,Dropout
+2939,Trade School Education,Dropout
+2940,Trade School Education,Graduate
+2942,Trade School Education,Graduate
+2943,Primary Education,Graduate
+2944,Secondary Education,Graduate
+2945,Trade School Education,Dropout
+2946,Secondary Education,Dropout
+2947,Secondary Education,Graduate
+2948,Secondary Education,Graduate
+2949,Secondary Education,Dropout
+2950,Primary Education,Graduate
+2951,Secondary Education,Graduate
+2953,Trade School Education,Dropout
+2954,Trade School Education,Graduate
+2955,Trade School Education,Graduate
+2956,Trade School Education,Dropout
+2957,Trade School Education,Graduate
+2958,Trade School Education,Dropout
+2959,Secondary Education,Graduate
+2960,Secondary Education,Graduate
+2961,Primary Education,Graduate
+2962,Secondary Education,Dropout
+2963,Secondary Education,Graduate
+2964,Primary Education,Dropout
+2965,Secondary Education,Graduate
+2966,Secondary Education,Graduate
+2968,Trade School Education,Graduate
+2969,Primary Education,Graduate
+2970,Primary Education,Graduate
+2971,Primary Education,Dropout
+2973,Trade School Education,Graduate
+2974,Secondary Education,Dropout
+2975,Secondary Education,Graduate
+2976,Secondary Education,Graduate
+2977,Secondary Education,Dropout
+2978,Secondary Education,Graduate
+2979,Secondary Education,Dropout
+2980,Trade School Education,Graduate
+2981,Primary Education,Graduate
+2982,Secondary Education,Graduate
+2983,Primary Education,Graduate
+2984,Secondary Education,Graduate
+2985,Trade School Education,Graduate
+2987,Primary Education,Graduate
+2988,Secondary Education,Graduate
+2990,Primary Education,Graduate
+2991,Trade School Education,Graduate
+2992,Secondary Education,Dropout
+2993,Trade School Education,Graduate
+2994,Secondary Education,Graduate
+2995,Secondary Education,Graduate
+2996,Primary Education,Graduate
+2998,Secondary Education,Graduate
+2999,Primary Education,Dropout
+3001,Secondary Education,Graduate
+3002,Secondary Education,Dropout
+3003,Primary Education,Dropout
+3004,Trade School Education,Graduate
+3005,Primary Education,Graduate
+3006,Secondary Education,Graduate
+3008,Trade School Education,Dropout
+3009,Secondary Education,Graduate
+3010,Secondary Education,Graduate
+3011,Secondary Education,Dropout
+3012,Trade School Education,Graduate
+3013,Secondary Education,Graduate
+3014,Secondary Education,Dropout
+3015,Trade School Education,Graduate
+3016,Secondary Education,Graduate
+3017,Secondary Education,Graduate
+3018,Trade School Education,Graduate
+3019,Secondary Education,Graduate
+3020,Primary Education,Graduate
+3021,Secondary Education,Graduate
+3022,Trade School Education,Dropout
+3023,Trade School Education,Graduate
+3024,Primary Education,Graduate
+3025,Secondary Education,Graduate
+3027,Trade School Education,Dropout
+3028,Trade School Education,Graduate
+3029,Trade School Education,Graduate
+3030,Trade School Education,Dropout
+3031,Trade School Education,Graduate
+3032,Primary Education,Graduate
+3033,Trade School Education,Graduate
+3034,Secondary Education,Graduate
+3035,Primary Education,Graduate
+3036,Secondary Education,Dropout
+3037,Secondary Education,Graduate
+3038,Trade School Education,Graduate
+3039,Trade School Education,Dropout
+3040,Secondary Education,Dropout
+3042,Secondary Education,Graduate
+3043,Secondary Education,Graduate
+3044,Secondary Education,Graduate
+3045,Secondary Education,Graduate
+3047,Trade School Education,Dropout
+3048,Secondary Education,Graduate
+3049,Trade School Education,Graduate
+3050,Trade School Education,Dropout
+3052,Trade School Education,Graduate
+3053,Trade School Education,Dropout
+3054,Trade School Education,Graduate
+3055,Primary Education,Dropout
+3056,Primary Education,Graduate
+3057,Primary Education,Dropout
+3058,Trade School Education,Graduate
+3059,Primary Education,Graduate
+3061,Primary Education,Dropout
+3062,Primary Education,Dropout
+3063,Primary Education,Graduate
+3064,Trade School Education,Graduate
+3065,Primary Education,Dropout
+3066,Secondary Education,Graduate
+3068,Trade School Education,Graduate
+3069,Trade School Education,Dropout
+3071,Secondary Education,Dropout
+3072,Secondary Education,Dropout
+3074,Trade School Education,Dropout
+3076,Secondary Education,Dropout
+3078,Secondary Education,Graduate
+3079,Primary Education,Dropout
+3080,Primary Education,Graduate
+3081,Primary Education,Graduate
+3082,Trade School Education,Graduate
+3083,Secondary Education,Dropout
+3084,Trade School Education,Graduate
+3086,Trade School Education,Graduate
+3087,Primary Education,Graduate
+3088,Trade School Education,Graduate
+3089,Trade School Education,Dropout
+3090,Trade School Education,Graduate
+3092,Trade School Education,Graduate
+3093,Primary Education,Graduate
+3094,Primary Education,Dropout
+3095,Primary Education,Graduate
+3096,Trade School Education,Graduate
+3097,Trade School Education,Dropout
+3099,Primary Education,Dropout
+3100,Trade School Education,Graduate
+3101,Secondary Education,Graduate
+3102,Trade School Education,Dropout
+3103,Trade School Education,Dropout
+3104,Primary Education,Graduate
+3105,Primary Education,Dropout
+3106,Secondary Education,Graduate
+3107,Secondary Education,Graduate
+3109,Secondary Education,Graduate
+3110,Secondary Education,Dropout
+3111,Secondary Education,Graduate
+3112,Secondary Education,Dropout
+3114,Secondary Education,Graduate
+3115,Primary Education,Graduate
+3116,Trade School Education,Dropout
+3117,Primary Education,Graduate
+3118,Primary Education,Graduate
+3120,Trade School Education,Dropout
+3121,Trade School Education,Graduate
+3123,Trade School Education,Graduate
+3124,Primary Education,Graduate
+3125,Primary Education,Graduate
+3127,Primary Education,Graduate
+3128,Secondary Education,Graduate
+3129,Secondary Education,Graduate
+3130,Secondary Education,Graduate
+3131,Trade School Education,Graduate
+3132,Secondary Education,Graduate
+3135,Secondary Education,Graduate
+3136,Trade School Education,Graduate
+3137,Secondary Education,Graduate
+3138,Primary Education,Graduate
+3140,Primary Education,Graduate
+3141,Secondary Education,Graduate
+3142,Trade School Education,Dropout
+3143,Trade School Education,Graduate
+3144,Trade School Education,Graduate
+3145,Trade School Education,Graduate
+3146,Secondary Education,Graduate
+3149,Trade School Education,Graduate
+3151,Secondary Education,Dropout
+3152,Secondary Education,Graduate
+3153,Secondary Education,Graduate
+3156,Secondary Education,Graduate
+3157,Primary Education,Dropout
+3160,Trade School Education,Graduate
+3161,Secondary Education,Graduate
+3162,Primary Education,Graduate
+3163,Secondary Education,Graduate
+3164,Primary Education,Graduate
+3165,Secondary Education,Graduate
+3166,Secondary Education,Dropout
+3167,Primary Education,Dropout
+3168,Secondary Education,Dropout
+3169,Secondary Education,Graduate
+3170,Secondary Education,Graduate
+3171,Secondary Education,Dropout
+3172,Primary Education,Dropout
+3173,Trade School Education,Graduate
+3175,Trade School Education,Dropout
+3176,Primary Education,Graduate
+3177,Trade School Education,Dropout
+3178,Secondary Education,Graduate
+3180,Secondary Education,Graduate
+3181,Primary Education,Dropout
+3182,Primary Education,Graduate
+3184,Secondary Education,Graduate
+3185,Primary Education,Dropout
+3186,Primary Education,Dropout
+3187,Primary Education,Dropout
+3188,Primary Education,Dropout
+3189,Trade School Education,Dropout
+3190,Primary Education,Dropout
+3191,Primary Education,Dropout
+3193,Secondary Education,Dropout
+3195,Secondary Education,Dropout
+3197,Secondary Education,Graduate
+3198,Primary Education,Dropout
+3199,Secondary Education,Graduate
+3200,Primary Education,Dropout
+3201,Secondary Education,Graduate
+3203,Secondary Education,Dropout
+3204,Trade School Education,Dropout
+3205,Trade School Education,Dropout
+3206,Secondary Education,Graduate
+3207,Secondary Education,Dropout
+3208,Secondary Education,Dropout
+3209,Trade School Education,Graduate
+3210,Secondary Education,Graduate
+3212,Secondary Education,Graduate
+3213,Secondary Education,Dropout
+3214,Secondary Education,Graduate
+3215,Secondary Education,Graduate
+3216,Secondary Education,Dropout
+3217,Trade School Education,Graduate
+3219,Secondary Education,Dropout
+3220,Trade School Education,Dropout
+3221,Trade School Education,Dropout
+3222,Primary Education,Graduate
+3223,Trade School Education,Dropout
+3224,Primary Education,Dropout
+3225,Trade School Education,Graduate
+3226,Primary Education,Graduate
+3228,Trade School Education,Graduate
+3229,Trade School Education,Graduate
+3230,Trade School Education,Graduate
+3232,Primary Education,Graduate
+3233,Trade School Education,Dropout
+3234,Secondary Education,Graduate
+3235,Trade School Education,Graduate
+3236,Secondary Education,Graduate
+3238,Secondary Education,Graduate
+3239,Secondary Education,Graduate
+3241,Trade School Education,Graduate
+3242,Trade School Education,Dropout
+3243,Trade School Education,Graduate
+3244,Trade School Education,Dropout
+3245,Secondary Education,Dropout
+3246,Secondary Education,Graduate
+3247,Secondary Education,Graduate
+3248,Trade School Education,Graduate
+3249,Trade School Education,Graduate
+3250,Trade School Education,Dropout
+3251,Trade School Education,Graduate
+3252,Secondary Education,Dropout
+3253,Secondary Education,Dropout
+3254,Secondary Education,Graduate
+3255,Secondary Education,Graduate
+3256,Trade School Education,Graduate
+3257,Trade School Education,Graduate
+3258,Primary Education,Graduate
+3259,Trade School Education,Graduate
+3260,Secondary Education,Graduate
+3261,Secondary Education,Graduate
+3262,Primary Education,Dropout
+3263,Trade School Education,Graduate
+3264,Primary Education,Dropout
+3265,Secondary Education,Graduate
+3266,Secondary Education,Graduate
+3268,Trade School Education,Dropout
+3269,Primary Education,Dropout
+3270,Trade School Education,Dropout
+3271,Trade School Education,Graduate
+3272,Trade School Education,Graduate
+3274,Trade School Education,Dropout
+3275,Trade School Education,Graduate
+3276,Primary Education,Dropout
+3277,Trade School Education,Graduate
+3278,Secondary Education,Dropout
+3279,Trade School Education,Graduate
+3280,Secondary Education,Graduate
+3281,Trade School Education,Dropout
+3283,Trade School Education,Graduate
+3285,Trade School Education,Graduate
+3286,Trade School Education,Dropout
+3287,Trade School Education,Dropout
+3288,Secondary Education,Graduate
+3289,Trade School Education,Graduate
+3290,Secondary Education,Dropout
+3291,Trade School Education,Dropout
+3292,Trade School Education,Dropout
+3295,Primary Education,Graduate
+3297,Primary Education,Dropout
+3298,Secondary Education,Graduate
+3299,Trade School Education,Dropout
+3300,Primary Education,Dropout
+3301,Primary Education,Graduate
+3302,Trade School Education,Graduate
+3303,Trade School Education,Graduate
+3304,Secondary Education,Graduate
+3305,Secondary Education,Graduate
+3306,Trade School Education,Graduate
+3307,Primary Education,Graduate
+3308,Primary Education,Graduate
+3309,Primary Education,Dropout
+3310,Primary Education,Graduate
+3311,Trade School Education,Dropout
+3314,Secondary Education,Dropout
+3315,Trade School Education,Graduate
+3316,Primary Education,Dropout
+3317,Secondary Education,Graduate
+3318,Trade School Education,Dropout
+3319,Secondary Education,Graduate
+3320,Secondary Education,Graduate
+3321,Trade School Education,Dropout
+3322,Primary Education,Dropout
+3323,Secondary Education,Dropout
+3324,Primary Education,Dropout
+3326,Trade School Education,Graduate
+3327,Secondary Education,Dropout
+3330,Secondary Education,Graduate
+3331,Primary Education,Dropout
+3332,Secondary Education,Dropout
+3333,Primary Education,Dropout
+3334,Trade School Education,Graduate
+3336,Primary Education,Dropout
+3337,Primary Education,Dropout
+3338,Trade School Education,Dropout
+3340,Primary Education,Dropout
+3342,Secondary Education,Graduate
+3344,Trade School Education,Dropout
+3345,Trade School Education,Dropout
+3346,Trade School Education,Dropout
+3347,Trade School Education,Dropout
+3348,Trade School Education,Graduate
+3349,Secondary Education,Dropout
+3351,Trade School Education,Dropout
+3352,Secondary Education,Dropout
+3353,Trade School Education,Graduate
+3354,Trade School Education,Graduate
+3355,Trade School Education,Dropout
+3357,Secondary Education,Dropout
+3358,Secondary Education,Dropout
+3360,Secondary Education,Dropout
+3361,Primary Education,Graduate
+3362,Secondary Education,Graduate
+3363,Secondary Education,Dropout
+3364,Primary Education,Dropout
+3365,Primary Education,Dropout
+3367,Primary Education,Graduate
+3369,Secondary Education,Dropout
+3370,Trade School Education,Dropout
+3371,Trade School Education,Graduate
+3372,Secondary Education,Graduate
+3373,Trade School Education,Graduate
+3374,Primary Education,Graduate
+3375,Trade School Education,Graduate
+3376,Primary Education,Graduate
+3377,Trade School Education,Graduate
+3379,Primary Education,Graduate
+3380,Primary Education,Dropout
+3381,Primary Education,Dropout
+3382,Trade School Education,Graduate
+3383,Primary Education,Dropout
+3385,Primary Education,Graduate
+3386,Secondary Education,Graduate
+3387,Trade School Education,Graduate
+3388,Secondary Education,Graduate
+3390,Trade School Education,Graduate
+3391,Primary Education,Graduate
+3392,Secondary Education,Graduate
+3393,Trade School Education,Graduate
+3395,Primary Education,Graduate
+3397,Trade School Education,Graduate
+3398,Secondary Education,Graduate
+3399,Trade School Education,Graduate
+3400,Trade School Education,Graduate
+3402,Primary Education,Graduate
+3403,Primary Education,Graduate
+3405,Secondary Education,Graduate
+3407,Secondary Education,Graduate
+3408,Secondary Education,Dropout
+3409,Primary Education,Graduate
+3411,Trade School Education,Graduate
+3413,Secondary Education,Dropout
+3414,Secondary Education,Graduate
+3417,Trade School Education,Dropout
+3418,Trade School Education,Graduate
+3419,Primary Education,Graduate
+3420,Secondary Education,Graduate
+3421,Trade School Education,Dropout
+3422,Secondary Education,Dropout
+3423,Secondary Education,Dropout
+3424,Primary Education,Dropout
+3425,Trade School Education,Dropout
+3427,Primary Education,Graduate
+3428,Trade School Education,Dropout
+3429,Trade School Education,Dropout
+3430,Primary Education,Graduate
+3431,Secondary Education,Graduate
+3432,Trade School Education,Graduate
+3433,Primary Education,Dropout
+3434,Secondary Education,Dropout
+3435,Secondary Education,Graduate
+3436,Secondary Education,Graduate
+3438,Trade School Education,Graduate
+3439,Trade School Education,Dropout
+3442,Trade School Education,Graduate
+3443,Secondary Education,Graduate
+3444,Secondary Education,Dropout
+3445,Primary Education,Graduate
+3446,Secondary Education,Dropout
+3447,Secondary Education,Graduate
+3448,Primary Education,Graduate
+3449,Secondary Education,Graduate
+3452,Secondary Education,Graduate
+3453,Trade School Education,Graduate
+3454,Trade School Education,Dropout
+3455,Primary Education,Graduate
+3456,Trade School Education,Graduate
+3457,Trade School Education,Graduate
+3458,Secondary Education,Graduate
+3459,Trade School Education,Dropout
+3460,Trade School Education,Graduate
+3462,Trade School Education,Dropout
+3464,Secondary Education,Graduate
+3465,Trade School Education,Dropout
+3467,Primary Education,Graduate
+3470,Trade School Education,Graduate
+3471,Trade School Education,Graduate
+3472,Trade School Education,Dropout
+3473,Primary Education,Dropout
+3474,Trade School Education,Dropout
+3475,Trade School Education,Graduate
+3476,Secondary Education,Graduate
+3477,Trade School Education,Dropout
+3479,Trade School Education,Graduate
+3480,Trade School Education,Graduate
+3481,Trade School Education,Graduate
+3482,Trade School Education,Dropout
+3483,Trade School Education,Dropout
+3484,Trade School Education,Dropout
+3485,Primary Education,Dropout
+3486,Primary Education,Graduate
+3487,Secondary Education,Dropout
+3488,Secondary Education,Dropout
+3489,Secondary Education,Graduate
+3490,Trade School Education,Dropout
+3491,Trade School Education,Dropout
+3492,Trade School Education,Dropout
+3493,Trade School Education,Dropout
+3494,Trade School Education,Graduate
+3495,Trade School Education,Graduate
+3496,Trade School Education,Dropout
+3497,Trade School Education,Dropout
+3498,Trade School Education,Graduate
+3500,Secondary Education,Dropout
+3501,Trade School Education,Dropout
+3502,Trade School Education,Graduate
+3503,Secondary Education,Graduate
+3504,Secondary Education,Graduate
+3505,Trade School Education,Dropout
+3506,Trade School Education,Dropout
+3507,Secondary Education,Graduate
+3509,Secondary Education,Graduate
+3510,Secondary Education,Dropout
+3512,Primary Education,Dropout
+3513,Trade School Education,Dropout
+3514,Primary Education,Dropout
+3516,Secondary Education,Dropout
+3517,Trade School Education,Dropout
+3518,Secondary Education,Dropout
+3519,Trade School Education,Dropout
+3520,Secondary Education,Graduate
+3521,Trade School Education,Dropout
+3522,Secondary Education,Graduate
+3525,Primary Education,Graduate
+3526,Secondary Education,Dropout
+3527,Secondary Education,Dropout
+3528,Secondary Education,Dropout
+3530,Secondary Education,Graduate
+3532,Secondary Education,Graduate
+3533,Primary Education,Dropout
+3534,Primary Education,Dropout
+3535,Secondary Education,Dropout
+3536,Trade School Education,Dropout
+3537,Trade School Education,Dropout
+3538,Primary Education,Dropout
+3539,Secondary Education,Graduate
+3540,Secondary Education,Dropout
+3541,Trade School Education,Dropout
+3545,Primary Education,Graduate
+3546,Primary Education,Graduate
+3547,Primary Education,Dropout
+3548,Trade School Education,Dropout
+3549,Secondary Education,Graduate
+3551,Trade School Education,Dropout
+3552,Trade School Education,Dropout
+3553,Primary Education,Dropout
+3555,Trade School Education,Graduate
+3557,Secondary Education,Dropout
+3559,Secondary Education,Graduate
+3561,Secondary Education,Graduate
+3562,Primary Education,Dropout
+3563,Secondary Education,Dropout
+3564,Primary Education,Dropout
+3565,Secondary Education,Dropout
+3566,Trade School Education,Graduate
+3567,Primary Education,Graduate
+3568,Secondary Education,Graduate
+3569,Secondary Education,Dropout
+3570,Secondary Education,Graduate
+3571,Secondary Education,Graduate
+3572,Primary Education,Dropout
+3574,Secondary Education,Graduate
+3575,Secondary Education,Graduate
+3576,Secondary Education,Graduate
+3577,Primary Education,Dropout
+3578,Secondary Education,Dropout
+3579,Secondary Education,Graduate
+3580,Primary Education,Graduate
+3581,Primary Education,Graduate
+3582,Trade School Education,Dropout
+3584,Secondary Education,Graduate
+3585,Primary Education,Dropout
+3586,Secondary Education,Dropout
+3587,Secondary Education,Graduate
+3588,Trade School Education,Graduate
+3589,Secondary Education,Dropout
+3592,Primary Education,Dropout
+3593,Primary Education,Dropout
+3595,Primary Education,Dropout
+3597,Primary Education,Graduate
+3598,Trade School Education,Graduate
+3599,Secondary Education,Dropout
+3600,Secondary Education,Dropout
+3601,Secondary Education,Graduate
+3602,Primary Education,Graduate
+3604,Primary Education,Graduate
+3605,Secondary Education,Graduate
+3606,Secondary Education,Dropout
+3608,Primary Education,Dropout
+3611,Secondary Education,Graduate
+3612,Primary Education,Dropout
+3613,Secondary Education,Dropout
+3615,Primary Education,Dropout
+3617,Primary Education,Dropout
+3618,Secondary Education,Graduate
+3619,Primary Education,Graduate
+3620,Trade School Education,Dropout
+3621,Secondary Education,Graduate
+3622,Primary Education,Graduate
+3623,Secondary Education,Dropout
+3624,Secondary Education,Graduate
+3626,Primary Education,Dropout
+3628,Secondary Education,Dropout
+3629,Primary Education,Graduate
+3630,Primary Education,Graduate
+3631,Trade School Education,Dropout
+3633,Trade School Education,Graduate
+3634,Secondary Education,Graduate
+3635,Trade School Education,Graduate
+3636,Secondary Education,Graduate
+3638,Trade School Education,Graduate
+3639,Secondary Education,Graduate
+3640,Primary Education,Graduate
+3641,Trade School Education,Dropout
+3642,Primary Education,Graduate
+3643,Secondary Education,Graduate
+3644,Trade School Education,Graduate
+3645,Trade School Education,Graduate
+3647,Trade School Education,Dropout
+3648,Primary Education,Graduate
+3649,Trade School Education,Dropout
+3650,Secondary Education,Graduate
+3652,Trade School Education,Graduate
+3654,Secondary Education,Graduate
+3655,Secondary Education,Graduate
+3656,Secondary Education,Graduate
+3657,Trade School Education,Graduate
+3658,Primary Education,Graduate
+3660,Primary Education,Dropout
+3661,Secondary Education,Graduate
+3662,Trade School Education,Graduate
+3663,Trade School Education,Graduate
+3664,Primary Education,Dropout
+3666,Trade School Education,Dropout
+3667,Primary Education,Dropout
+3668,Primary Education,Graduate
+3669,Secondary Education,Graduate
+3670,Secondary Education,Graduate
+3671,Trade School Education,Graduate
+3672,Primary Education,Graduate
+3673,Primary Education,Graduate
+3674,Secondary Education,Graduate
+3675,Trade School Education,Graduate
+3676,Trade School Education,Graduate
+3677,Primary Education,Dropout
+3678,Secondary Education,Graduate
+3679,Primary Education,Graduate
+3680,Trade School Education,Dropout
+3682,Trade School Education,Dropout
+3683,Primary Education,Graduate
+3684,Trade School Education,Dropout
+3685,Secondary Education,Dropout
+3686,Primary Education,Dropout
+3687,Primary Education,Dropout
+3688,Primary Education,Graduate
+3690,Primary Education,Graduate
+3691,Primary Education,Dropout
+3692,Trade School Education,Dropout
+3693,Primary Education,Dropout
+3694,Secondary Education,Dropout
+3695,Primary Education,Dropout
+3696,Trade School Education,Graduate
+3698,Trade School Education,Graduate
+3699,Secondary Education,Dropout
+3702,Secondary Education,Dropout
+3703,Trade School Education,Dropout
+3704,Trade School Education,Graduate
+3705,Secondary Education,Dropout
+3706,Trade School Education,Graduate
+3707,Trade School Education,Graduate
+3708,Secondary Education,Dropout
+3709,Secondary Education,Dropout
+3710,Trade School Education,Graduate
+3711,Primary Education,Dropout
+3712,Secondary Education,Dropout
+3713,Trade School Education,Dropout
+3714,Trade School Education,Dropout
+3716,Secondary Education,Dropout
+3717,Trade School Education,Graduate
+3718,Secondary Education,Dropout
+3719,Primary Education,Dropout
+3721,Trade School Education,Dropout
+3722,Primary Education,Dropout
+3723,Secondary Education,Dropout
+3724,Secondary Education,Dropout
+3725,Secondary Education,Dropout
+3726,Trade School Education,Dropout
+3727,Trade School Education,Graduate
+3728,Primary Education,Graduate
+3729,Trade School Education,Graduate
+3730,Secondary Education,Graduate
+3731,Trade School Education,Dropout
+3732,Secondary Education,Graduate
+3733,Trade School Education,Dropout
+3734,Primary Education,Dropout
+3735,Trade School Education,Graduate
+3738,Secondary Education,Graduate
+3739,Trade School Education,Dropout
+3740,Secondary Education,Dropout
+3742,Primary Education,Graduate
+3744,Primary Education,Dropout
+3745,Secondary Education,Graduate
+3746,Secondary Education,Graduate
+3747,Trade School Education,Graduate
+3748,Secondary Education,Dropout
+3749,Secondary Education,Graduate
+3750,Trade School Education,Graduate
+3751,Secondary Education,Graduate
+3752,Secondary Education,Graduate
+3753,Trade School Education,Graduate
+3754,Primary Education,Dropout
+3755,Secondary Education,Dropout
+3756,Trade School Education,Graduate
+3757,Secondary Education,Graduate
+3759,Trade School Education,Dropout
+3760,Trade School Education,Graduate
+3761,Secondary Education,Dropout
+3762,Primary Education,Graduate
+3763,Secondary Education,Graduate
+3764,Primary Education,Graduate
+3765,Trade School Education,Graduate
+3766,Trade School Education,Graduate
+3767,Trade School Education,Dropout
+3769,Secondary Education,Dropout
+3770,Secondary Education,Dropout
+3771,Secondary Education,Graduate
+3772,Secondary Education,Graduate
+3773,Trade School Education,Dropout
+3774,Secondary Education,Graduate
+3775,Trade School Education,Dropout
+3776,Secondary Education,Graduate
+3777,Primary Education,Graduate
+3780,Secondary Education,Graduate
+3781,Secondary Education,Graduate
+3782,Secondary Education,Graduate
+3784,Trade School Education,Dropout
+3786,Secondary Education,Dropout
+3787,Trade School Education,Dropout
+3789,Secondary Education,Dropout
+3790,Primary Education,Graduate
+3791,Secondary Education,Dropout
+3792,Primary Education,Dropout
+3793,Primary Education,Dropout
+3794,Primary Education,Dropout
+3795,Secondary Education,Graduate
+3796,Secondary Education,Graduate
+3797,Secondary Education,Dropout
+3798,Primary Education,Graduate
+3799,Secondary Education,Dropout
+3800,Primary Education,Dropout
+3801,Trade School Education,Graduate
+3802,Trade School Education,Graduate
+3803,Primary Education,Graduate
+3804,Secondary Education,Dropout
+3805,Trade School Education,Dropout
+3806,Primary Education,Graduate
+3807,Primary Education,Graduate
+3808,Primary Education,Dropout
+3809,Primary Education,Dropout
+3811,Trade School Education,Dropout
+3812,Trade School Education,Graduate
+3813,Primary Education,Graduate
+3814,Primary Education,Graduate
+3816,Primary Education,Dropout
+3817,Trade School Education,Graduate
+3818,Primary Education,Dropout
+3819,Secondary Education,Dropout
+3821,Secondary Education,Dropout
+3822,Trade School Education,Graduate
+3823,Trade School Education,Dropout
+3825,Secondary Education,Dropout
+3826,Trade School Education,Dropout
+3827,Trade School Education,Graduate
+3828,Primary Education,Dropout
+3829,Trade School Education,Dropout
+3830,Secondary Education,Graduate
+3833,Trade School Education,Dropout
+3834,Secondary Education,Graduate
+3835,Secondary Education,Dropout
+3836,Secondary Education,Dropout
+3837,Secondary Education,Dropout
+3838,Trade School Education,Dropout
+3839,Trade School Education,Dropout
+3842,Secondary Education,Dropout
+3843,Trade School Education,Dropout
+3844,Primary Education,Graduate
+3845,Primary Education,Dropout
+3846,Trade School Education,Dropout
+3847,Secondary Education,Dropout
+3848,Trade School Education,Dropout
+3849,Primary Education,Graduate
+3850,Trade School Education,Dropout
+3851,Trade School Education,Dropout
+3852,Trade School Education,Dropout
+3853,Trade School Education,Dropout
+3854,Trade School Education,Dropout
+3855,Secondary Education,Graduate
+3856,Trade School Education,Graduate
+3857,Trade School Education,Graduate
+3858,Trade School Education,Dropout
+3859,Trade School Education,Dropout
+3860,Trade School Education,Dropout
+3861,Trade School Education,Dropout
+3862,Primary Education,Graduate
+3863,Trade School Education,Graduate
+3864,Secondary Education,Dropout
+3865,Secondary Education,Dropout
+3866,Trade School Education,Dropout
+3867,Primary Education,Graduate
+3868,Secondary Education,Graduate
+3869,Secondary Education,Dropout
+3870,Secondary Education,Graduate
+3871,Trade School Education,Graduate
+3872,Secondary Education,Graduate
+3873,Primary Education,Dropout
+3874,Secondary Education,Dropout
+3875,Primary Education,Dropout
+3876,Secondary Education,Dropout
+3877,Secondary Education,Graduate
+3878,Trade School Education,Graduate
+3879,Trade School Education,Graduate
+3880,Primary Education,Graduate
+3881,Secondary Education,Graduate
+3882,Trade School Education,Dropout
+3883,Trade School Education,Graduate
+3884,Secondary Education,Graduate
+3885,Trade School Education,Graduate
+3888,Trade School Education,Graduate
+3889,Secondary Education,Graduate
+3892,Secondary Education,Graduate
+3893,Trade School Education,Dropout
+3895,Trade School Education,Graduate
+3897,Trade School Education,Graduate
+3898,Trade School Education,Graduate
+3900,Trade School Education,Graduate
+3903,Trade School Education,Dropout
+3904,Trade School Education,Dropout
+3905,Trade School Education,Graduate
+3906,Trade School Education,Graduate
+3908,Trade School Education,Graduate
+3909,Trade School Education,Dropout
+3911,Trade School Education,Graduate
+3912,Secondary Education,Graduate
+3913,Primary Education,Graduate
+3914,Trade School Education,Dropout
+3915,Trade School Education,Graduate
+3916,Trade School Education,Graduate
+3917,Primary Education,Graduate
+3919,Secondary Education,Graduate
+3920,Trade School Education,Graduate
+3921,Trade School Education,Graduate
+3922,Primary Education,Graduate
+3923,Trade School Education,Graduate
+3926,Primary Education,Graduate
+3927,Trade School Education,Dropout
+3928,Primary Education,Graduate
+3930,Secondary Education,Graduate
+3931,Secondary Education,Graduate
+3932,Primary Education,Graduate
+3934,Trade School Education,Dropout
+3936,Trade School Education,Dropout
+3938,Primary Education,Graduate
+3939,Secondary Education,Graduate
+3941,Primary Education,Dropout
+3942,Secondary Education,Graduate
+3943,Secondary Education,Dropout
+3944,Secondary Education,Dropout
+3945,Trade School Education,Graduate
+3946,Secondary Education,Graduate
+3947,Trade School Education,Dropout
+3948,Trade School Education,Graduate
+3949,Secondary Education,Graduate
+3950,Trade School Education,Dropout
+3951,Primary Education,Dropout
+3952,Secondary Education,Graduate
+3953,Trade School Education,Graduate
+3954,Secondary Education,Dropout
+3955,Secondary Education,Dropout
+3956,Trade School Education,Graduate
+3957,Trade School Education,Graduate
+3958,Primary Education,Graduate
+3959,Trade School Education,Graduate
+3960,Trade School Education,Dropout
+3961,Trade School Education,Graduate
+3962,Trade School Education,Graduate
+3963,Primary Education,Graduate
+3964,Primary Education,Dropout
+3965,Primary Education,Graduate
+3966,Primary Education,Dropout
+3968,Secondary Education,Graduate
+3969,Trade School Education,Graduate
+3970,Trade School Education,Graduate
+3971,Primary Education,Graduate
+3972,Trade School Education,Graduate
+3973,Secondary Education,Graduate
+3974,Primary Education,Graduate
+3975,Trade School Education,Graduate
+3976,Primary Education,Graduate
+3977,Trade School Education,Graduate
+3978,Primary Education,Graduate
+3980,Secondary Education,Graduate
+3981,Trade School Education,Graduate
+3982,Secondary Education,Graduate
+3983,Trade School Education,Graduate
+3984,Trade School Education,Dropout
+3985,Trade School Education,Graduate
+3986,Trade School Education,Graduate
+3987,Secondary Education,Graduate
+3988,Primary Education,Graduate
+3989,Trade School Education,Graduate
+3990,Trade School Education,Graduate
+3991,Primary Education,Dropout
+3992,Trade School Education,Graduate
+3993,Trade School Education,Graduate
+3994,Secondary Education,Graduate
+3995,Trade School Education,Dropout
+3996,Secondary Education,Dropout
+3997,Primary Education,Graduate
+3998,Primary Education,Dropout
+3999,Secondary Education,Dropout
+4000,Primary Education,Dropout
+4001,Secondary Education,Dropout
+4002,Primary Education,Graduate
+4003,Trade School Education,Graduate
+4004,Trade School Education,Graduate
+4005,Trade School Education,Dropout
+4006,Trade School Education,Graduate
+4007,Secondary Education,Dropout
+4008,Trade School Education,Dropout
+4009,Trade School Education,Dropout
+4010,Trade School Education,Dropout
+4012,Trade School Education,Dropout
+4013,Trade School Education,Graduate
+4014,Primary Education,Graduate
+4015,Trade School Education,Dropout
+4016,Primary Education,Dropout
+4017,Trade School Education,Dropout
+4018,Trade School Education,Graduate
+4019,Secondary Education,Graduate
+4020,Secondary Education,Dropout
+4021,Secondary Education,Graduate
+4022,Primary Education,Graduate
+4023,Primary Education,Dropout
+4026,Trade School Education,Graduate
+4027,Primary Education,Dropout
+4028,Secondary Education,Graduate
+4029,Secondary Education,Dropout
+4030,Trade School Education,Graduate
+4032,Secondary Education,Graduate
+4033,Secondary Education,Dropout
+4034,Primary Education,Dropout
+4035,Primary Education,Dropout
+4036,Secondary Education,Graduate
+4038,Secondary Education,Graduate
+4039,Secondary Education,Graduate
+4040,Secondary Education,Graduate
+4041,Trade School Education,Graduate
+4042,Primary Education,Graduate
+4044,Trade School Education,Graduate
+4045,Primary Education,Dropout
+4046,Primary Education,Graduate
+4047,Secondary Education,Graduate
+4048,Trade School Education,Graduate
+4049,Secondary Education,Graduate
+4050,Primary Education,Dropout
+4051,Trade School Education,Graduate
+4052,Trade School Education,Dropout
+4054,Trade School Education,Graduate
+4055,Secondary Education,Dropout
+4056,Secondary Education,Graduate
+4058,Secondary Education,Graduate
+4059,Primary Education,Dropout
+4060,Secondary Education,Graduate
+4061,Secondary Education,Graduate
+4062,Secondary Education,Graduate
+4063,Secondary Education,Graduate
+4066,Primary Education,Graduate
+4067,Trade School Education,Dropout
+4068,Secondary Education,Graduate
+4069,Secondary Education,Graduate
+4070,Secondary Education,Graduate
+4071,Secondary Education,Dropout
+4073,Primary Education,Graduate
+4074,Trade School Education,Graduate
+4075,Primary Education,Dropout
+4076,Primary Education,Graduate
+4077,Primary Education,Dropout
+4078,Trade School Education,Graduate
+4080,Trade School Education,Dropout
+4083,Secondary Education,Graduate
+4084,Secondary Education,Dropout
+4085,Secondary Education,Dropout
+4086,Trade School Education,Graduate
+4089,Primary Education,Dropout
+4090,Primary Education,Graduate
+4091,Trade School Education,Dropout
+4092,Secondary Education,Dropout
+4093,Trade School Education,Graduate
+4094,Trade School Education,Graduate
+4095,Trade School Education,Graduate
+4096,Trade School Education,Graduate
+4097,Trade School Education,Graduate
+4098,Trade School Education,Dropout
+4099,Trade School Education,Dropout
+4101,Trade School Education,Graduate
+4102,Trade School Education,Graduate
+4104,Trade School Education,Graduate
+4105,Trade School Education,Graduate
+4106,Secondary Education,Graduate
+4107,Trade School Education,Dropout
+4108,Trade School Education,Graduate
+4109,Secondary Education,Graduate
+4110,Trade School Education,Graduate
+4111,Primary Education,Graduate
+4112,Trade School Education,Graduate
+4113,Trade School Education,Dropout
+4114,Secondary Education,Graduate
+4117,Secondary Education,Graduate
+4118,Secondary Education,Graduate
+4119,Secondary Education,Graduate
+4120,Primary Education,Graduate
+4121,Secondary Education,Graduate
+4122,Primary Education,Graduate
+4123,Trade School Education,Graduate
+4127,Trade School Education,Graduate
+4128,Trade School Education,Graduate
+4129,Trade School Education,Graduate
+4130,Trade School Education,Graduate
+4131,Primary Education,Graduate
+4134,Primary Education,Graduate
+4135,Trade School Education,Graduate
+4136,Secondary Education,Graduate
+4137,Trade School Education,Graduate
+4138,Trade School Education,Dropout
+4139,Trade School Education,Graduate
+4140,Primary Education,Dropout
+4141,Secondary Education,Dropout
+4142,Primary Education,Graduate
+4145,Primary Education,Dropout
+4146,Trade School Education,Dropout
+4149,Trade School Education,Graduate
+4150,Primary Education,Graduate
+4151,Trade School Education,Graduate
+4152,Primary Education,Graduate
+4154,Trade School Education,Dropout
+4155,Secondary Education,Graduate
+4157,Secondary Education,Dropout
+4158,Secondary Education,Graduate
+4159,Primary Education,Graduate
+4160,Trade School Education,Graduate
+4162,Primary Education,Dropout
+4163,Primary Education,Graduate
+4164,Trade School Education,Dropout
+4165,Primary Education,Graduate
+4167,Primary Education,Graduate
+4168,Primary Education,Graduate
+4169,Trade School Education,Dropout
+4173,Trade School Education,Graduate
+4174,Trade School Education,Graduate
+4175,Trade School Education,Graduate
+4176,Primary Education,Graduate
+4178,Primary Education,Graduate
+4179,Secondary Education,Graduate
+4181,Trade School Education,Dropout
+4182,Trade School Education,Dropout
+4183,Trade School Education,Graduate
+4184,Trade School Education,Graduate
+4187,Trade School Education,Graduate
+4188,Trade School Education,Graduate
+4189,Trade School Education,Graduate
+4190,Trade School Education,Dropout
+4193,Secondary Education,Graduate
+4194,Trade School Education,Dropout
+4195,Trade School Education,Graduate
+4196,Primary Education,Graduate
+4197,Secondary Education,Graduate
+4199,Trade School Education,Graduate
+4200,Trade School Education,Graduate
+4201,Trade School Education,Graduate
+4203,Primary Education,Graduate
+4204,Primary Education,Dropout
+4205,Secondary Education,Graduate
+4206,Primary Education,Graduate
+4207,Trade School Education,Graduate
+4208,Secondary Education,Dropout
+4209,Trade School Education,Graduate
+4210,Primary Education,Graduate
+4211,Primary Education,Graduate
+4212,Secondary Education,Graduate
+4213,Primary Education,Graduate
+4214,Trade School Education,Graduate
+4215,Primary Education,Dropout
+4216,Secondary Education,Dropout
+4217,Secondary Education,Graduate
+4219,Trade School Education,Graduate
+4220,Primary Education,Dropout
+4221,Trade School Education,Graduate
+4222,Primary Education,Graduate
+4223,Primary Education,Graduate
+4224,Trade School Education,Graduate
+4225,Trade School Education,Graduate
+4226,Primary Education,Dropout
+4227,Trade School Education,Graduate
+4229,Trade School Education,Dropout
+4230,Secondary Education,Graduate
+4232,Secondary Education,Dropout
+4233,Trade School Education,Graduate
+4236,Trade School Education,Graduate
+4238,Trade School Education,Dropout
+4239,Secondary Education,Graduate
+4240,Secondary Education,Graduate
+4241,Trade School Education,Dropout
+4242,Primary Education,Dropout
+4244,Secondary Education,Dropout
+4245,Primary Education,Dropout
+4246,Trade School Education,Dropout
+4247,Trade School Education,Graduate
+4248,Secondary Education,Dropout
+4249,Trade School Education,Graduate
+4250,Trade School Education,Dropout
+4251,Primary Education,Dropout
+4252,Primary Education,Graduate
+4253,Primary Education,Dropout
+4254,Trade School Education,Dropout
+4255,Secondary Education,Dropout
+4256,Secondary Education,Graduate
+4258,Primary Education,Graduate
+4259,Trade School Education,Dropout
+4260,Trade School Education,Dropout
+4261,Trade School Education,Dropout
+4262,Secondary Education,Graduate
+4263,Trade School Education,Dropout
+4264,Trade School Education,Graduate
+4265,Secondary Education,Graduate
+4267,Secondary Education,Graduate
+4268,Secondary Education,Dropout
+4270,Trade School Education,Graduate
+4271,Secondary Education,Dropout
+4272,Secondary Education,Graduate
+4276,Secondary Education,Dropout
+4277,Primary Education,Dropout
+4278,Secondary Education,Graduate
+4279,Primary Education,Dropout
+4280,Primary Education,Dropout
+4282,Trade School Education,Dropout
+4283,Trade School Education,Dropout
+4286,Trade School Education,Graduate
+4287,Secondary Education,Graduate
+4288,Secondary Education,Dropout
+4289,Primary Education,Graduate
+4290,Secondary Education,Graduate
+4291,Secondary Education,Graduate
+4292,Secondary Education,Graduate
+4293,Primary Education,Dropout
+4294,Trade School Education,Graduate
+4296,Secondary Education,Graduate
+4297,Trade School Education,Graduate
+4298,Primary Education,Dropout
+4299,Trade School Education,Dropout
+4300,Secondary Education,Graduate
+4301,Trade School Education,Dropout
+4302,Trade School Education,Dropout
+4303,Secondary Education,Dropout
+4304,Primary Education,Dropout
+4305,Primary Education,Dropout
+4306,Primary Education,Dropout
+4307,Primary Education,Dropout
+4308,Secondary Education,Dropout
+4309,Secondary Education,Graduate
+4310,Trade School Education,Graduate
+4312,Primary Education,Dropout
+4313,Secondary Education,Graduate
+4314,Trade School Education,Dropout
+4315,Secondary Education,Dropout
+4316,Trade School Education,Graduate
+4317,Secondary Education,Graduate
+4318,Secondary Education,Graduate
+4319,Primary Education,Graduate
+4322,Secondary Education,Dropout
+4323,Trade School Education,Dropout
+4324,Primary Education,Graduate
+4325,Primary Education,Graduate
+4326,Primary Education,Dropout
+4327,Trade School Education,Dropout
+4328,Trade School Education,Dropout
+4329,Trade School Education,Graduate
+4330,Secondary Education,Dropout
+4331,Trade School Education,Dropout
+4332,Trade School Education,Graduate
+4333,Primary Education,Dropout
+4334,Trade School Education,Graduate
+4337,Secondary Education,Graduate
+4339,Secondary Education,Graduate
+4340,Secondary Education,Graduate
+4341,Primary Education,Graduate
+4342,Primary Education,Dropout
+4344,Trade School Education,Dropout
+4345,Secondary Education,Graduate
+4346,Primary Education,Dropout
+4347,Secondary Education,Dropout
+4348,Secondary Education,Graduate
+4349,Trade School Education,Graduate
+4350,Secondary Education,Graduate
+4351,Secondary Education,Graduate
+4352,Trade School Education,Dropout
+4353,Secondary Education,Graduate
+4355,Secondary Education,Graduate
+4356,Trade School Education,Dropout
+4357,Primary Education,Dropout
+4358,Trade School Education,Dropout
+4359,Secondary Education,Graduate
+4360,Primary Education,Graduate
+4361,Secondary Education,Graduate
+4362,Secondary Education,Graduate
+4363,Primary Education,Dropout
+4365,Trade School Education,Graduate
+4366,Secondary Education,Graduate
+4367,Primary Education,Graduate
+4368,Trade School Education,Dropout
+4370,Secondary Education,Graduate
+4371,Trade School Education,Graduate
+4372,Primary Education,Dropout
+4374,Trade School Education,Graduate
+4375,Trade School Education,Dropout
+4376,Trade School Education,Graduate
+4377,Trade School Education,Dropout
+4378,Trade School Education,Graduate
+4379,Trade School Education,Dropout
+4380,Trade School Education,Dropout
+4382,Secondary Education,Graduate
+4383,Trade School Education,Graduate
+4384,Trade School Education,Dropout
+4385,Primary Education,Dropout
+4386,Trade School Education,Dropout
+4387,Trade School Education,Dropout
+4388,Trade School Education,Dropout
+4389,Primary Education,Graduate
+4390,Trade School Education,Graduate
+4393,Trade School Education,Graduate
+4394,Trade School Education,Graduate
+4395,Primary Education,Dropout
+4396,Primary Education,Graduate
+4398,Trade School Education,Graduate
+4399,Trade School Education,Graduate
+4400,Trade School Education,Dropout
+4401,Primary Education,Dropout
+4403,Secondary Education,Graduate
+4404,Secondary Education,Dropout
+4405,Trade School Education,Graduate
+4407,Secondary Education,Graduate
+4408,Trade School Education,Dropout
+4409,Trade School Education,Graduate
+4410,Trade School Education,Graduate
+4411,Trade School Education,Dropout
+4414,Secondary Education,Graduate
+4415,Trade School Education,Dropout
+4416,Trade School Education,Graduate
+4417,Secondary Education,Graduate
+4418,Secondary Education,Graduate
+4419,Secondary Education,Graduate
+4420,Secondary Education,Dropout
+4421,Trade School Education,Dropout
+4422,Trade School Education,Graduate
+4423,Trade School Education,Graduate
